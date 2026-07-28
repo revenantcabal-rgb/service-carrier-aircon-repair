@@ -1,7 +1,7 @@
 {
     "version":  "1.2.0",
     "url":  "https://github.com/revenantcabal-rgb/spiritvale-helper-releases/releases/download/v1.2.0/SpiritVale-Key-Helper-1.2.0.zip",
-    "sha256":  "370E2D30615E2F71E1D3850B007DDC049421C8CF6BD5815CC3C4A35CD41E9ACA",
+    "sha256":  "D0004C176146134410515D51A677B251125360C90F5CB93E0769860D26E3310A",
     "notes":  "It is a real program now. There is a proper setup file to run, a desktop and Start menu shortcut, an entry in Add or Remove Programs, and no batch files anywhere. The window itself was rebuilt in the game\u0027s own colours and spacing, and My Gear now paints its own readout so headings, stat names and values line up the way the game shows them. How keys are sent has not changed.",
     "released":  "2026-07-28"
 }
