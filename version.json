@@ -1,7 +1,7 @@
 {
-    "version":  "1.4.0",
-    "url":  "https://github.com/revenantcabal-rgb/spiritvale-helper-releases/releases/download/v1.4.0/SpiritVale-Key-Helper-1.4.0.zip",
-    "sha256":  "2766B58F96D92EA72BF9AE22AE07C6F6DB750F1845CE6EF2E506541DAFACBBCD",
-    "notes":  "A new layout, not another coat of paint. The window splits at the golden ratio: your skills on the left, and a rail of four cards on the right for Status, Play, Character and Tools, so the thing you press lives with the things it affects. Every colour pair is now measured against the readability standard and the build fails if any text is illegible, which fixed white text on the green START and on the cyan buttons. Disabled buttons grey out properly instead of looking pressable, the keys show as gold keycaps, and the status line became pills with a dot.",
-    "released":  "2026-07-28"
+    "version":  "1.5.0",
+    "url":  "https://github.com/revenantcabal-rgb/spiritvale-helper-releases/releases/download/v1.5.0/SpiritVale-Key-Helper-1.5.0.zip",
+    "sha256":  "1397CC164938DDC36A492FFAD0AAE682DF34960B45D17B46D9BA540D73C19B37",
+    "notes":  "The tool can now press a skill the moment the game itself shows it is off cooldown. Set the row\u0027s Mode to Ready, run Calibrate-Skills.ps1 from the app folder once, standing in town with nothing on cooldown, and that row fires the instant its tile is ready, waits when the game refuses a cast, and holds still on loading screens instead of guessing. Timed skills now space themselves out so two casts can no longer cancel each other, the word None finally fits inside the With box, and your calibration survives every future update.",
+    "released":  "2026-07-31"
 }
