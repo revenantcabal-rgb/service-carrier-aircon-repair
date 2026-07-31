@@ -1,7 +1,7 @@
 {
-    "version":  "1.5.0",
-    "url":  "https://github.com/revenantcabal-rgb/spiritvale-helper-releases/releases/download/v1.5.0/SpiritVale-Key-Helper-1.5.0.zip",
-    "sha256":  "1397CC164938DDC36A492FFAD0AAE682DF34960B45D17B46D9BA540D73C19B37",
-    "notes":  "The tool can now press a skill the moment the game itself shows it is off cooldown. Set the row\u0027s Mode to Ready, run Calibrate-Skills.ps1 from the app folder once, standing in town with nothing on cooldown, and that row fires the instant its tile is ready, waits when the game refuses a cast, and holds still on loading screens instead of guessing. Timed skills now space themselves out so two casts can no longer cancel each other, the word None finally fits inside the With box, and your calibration survives every future update.",
+    "version":  "1.5.1",
+    "url":  "https://github.com/revenantcabal-rgb/spiritvale-helper-releases/releases/download/v1.5.1/SpiritVale-Key-Helper-1.5.1.zip",
+    "sha256":  "0A76A6530879E04F6E6F822C18D8D3422CD8F791D6BBCA47FA3E0DBC1C97EC3E",
+    "notes":  "Safety and polish, nothing about how keys are sent changed. The uninstaller now refuses to touch any folder that is not actually an install of this app, and removing a second copy no longer takes the real copy\u0027s shortcuts and Add or Remove entry with it. An install that fails halfway puts the previous files back instead of leaving a mix. Your Mode Ready skill calibration now travels when you reinstall or move machines, and the updater only ever accepts a package served over https with a matching published fingerprint.",
     "released":  "2026-07-31"
 }
