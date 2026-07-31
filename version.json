@@ -1,7 +1,7 @@
 {
-    "version":  "1.6.0",
-    "url":  "https://github.com/revenantcabal-rgb/spiritvale-helper-releases/releases/download/v1.6.0/SpiritVale-Key-Helper-1.6.0.zip",
-    "sha256":  "0655786034072E17A8F0AACBBE36A463E4CDE8E38BDC0F798A72492D5C2C101E",
-    "notes":  "Mode Turbo, hold to spam: a row presses its key FOR you while you hold that key down yourself, and stops when you let go. A quick tap stays a single tap. Berserker profile reshaped to hold to spam on 1 2 3 4 Q E R T. Both Prove It Works diagnostics repaired.",
+    "version":  "1.7.0",
+    "url":  "https://github.com/revenantcabal-rgb/spiritvale-helper-releases/releases/download/v1.7.0/SpiritVale-Key-Helper-1.7.0.zip",
+    "sha256":  "F4D13762572CD75DC8B87908BA3658FE857C8D823E44DDDA4D3F88EDAD0BBF95",
+    "notes":  "Auto Attack and Auto Loot are permanent rows now. They sit in their own ALWAYS ON panel under the ten hotkey slots, they are always there, and they are never counted as one of your ten skill slots. Set up Auto Attack asks whether your game uses Z or Space. Older characters are brought up to the new shape automatically: their Auto Attack and Auto Loot rows move into the new panel keeping their key, mode and timings, and free up the hotkey slot they were using.",
     "released":  "2026-08-01"
 }
