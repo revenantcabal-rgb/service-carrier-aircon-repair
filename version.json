@@ -1,7 +1,7 @@
 {
-    "version":  "1.5.1",
-    "url":  "https://github.com/revenantcabal-rgb/spiritvale-helper-releases/releases/download/v1.5.1/SpiritVale-Key-Helper-1.5.1.zip",
-    "sha256":  "0A76A6530879E04F6E6F822C18D8D3422CD8F791D6BBCA47FA3E0DBC1C97EC3E",
-    "notes":  "Safety and polish, nothing about how keys are sent changed. The uninstaller now refuses to touch any folder that is not actually an install of this app, and removing a second copy no longer takes the real copy\u0027s shortcuts and Add or Remove entry with it. An install that fails halfway puts the previous files back instead of leaving a mix. Your Mode Ready skill calibration now travels when you reinstall or move machines, and the updater only ever accepts a package served over https with a matching published fingerprint.",
-    "released":  "2026-07-31"
+    "version":  "1.6.0",
+    "url":  "https://github.com/revenantcabal-rgb/spiritvale-helper-releases/releases/download/v1.6.0/SpiritVale-Key-Helper-1.6.0.zip",
+    "sha256":  "0655786034072E17A8F0AACBBE36A463E4CDE8E38BDC0F798A72492D5C2C101E",
+    "notes":  "Mode Turbo, hold to spam: a row presses its key FOR you while you hold that key down yourself, and stops when you let go. A quick tap stays a single tap. Berserker profile reshaped to hold to spam on 1 2 3 4 Q E R T. Both Prove It Works diagnostics repaired.",
+    "released":  "2026-08-01"
 }
