@@ -1,7 +1,7 @@
 {
-    "version":  "1.7.0",
-    "url":  "https://github.com/revenantcabal-rgb/spiritvale-helper-releases/releases/download/v1.7.0/SpiritVale-Key-Helper-1.7.0.zip",
-    "sha256":  "F4D13762572CD75DC8B87908BA3658FE857C8D823E44DDDA4D3F88EDAD0BBF95",
-    "notes":  "Auto Attack and Auto Loot are permanent rows now. They sit in their own ALWAYS ON panel under the ten hotkey slots, they are always there, and they are never counted as one of your ten skill slots. Set up Auto Attack asks whether your game uses Z or Space. Older characters are brought up to the new shape automatically: their Auto Attack and Auto Loot rows move into the new panel keeping their key, mode and timings, and free up the hotkey slot they were using.",
+    "version":  "1.7.1",
+    "url":  "https://github.com/revenantcabal-rgb/spiritvale-helper-releases/releases/download/v1.7.1/SpiritVale-Key-Helper-1.7.1.zip",
+    "sha256":  "239939CDE58BFC1F800737ADC48A39A6BD2CCA338DA88D05D26565B6D16C8913",
+    "notes":  "Auto Loot now picks up nearly twice as much while you move. It was paying a small wait meant for spell casts on every single tap, and you hold movement keys the whole time you grind, so a 0.3 second pickup key was really running at 0.55. Only real casts wait now. Also: a character added to your profiles folder shows up without restarting the app, and the EXP troubleshooter now tells you when a game window is simply covering the bar instead of blaming your HUD.",
     "released":  "2026-08-01"
 }
