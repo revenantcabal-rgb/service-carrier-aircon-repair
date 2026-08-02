@@ -1,7 +1,7 @@
 {
-    "version":  "1.7.1",
-    "url":  "https://github.com/revenantcabal-rgb/spiritvale-helper-releases/releases/download/v1.7.1/SpiritVale-Key-Helper-1.7.1.zip",
-    "sha256":  "239939CDE58BFC1F800737ADC48A39A6BD2CCA338DA88D05D26565B6D16C8913",
-    "notes":  "Auto Loot now picks up nearly twice as much while you move. It was paying a small wait meant for spell casts on every single tap, and you hold movement keys the whole time you grind, so a 0.3 second pickup key was really running at 0.55. Only real casts wait now. Also: a character added to your profiles folder shows up without restarting the app, and the EXP troubleshooter now tells you when a game window is simply covering the bar instead of blaming your HUD.",
-    "released":  "2026-08-01"
+    "version":  "1.8.0",
+    "url":  "https://github.com/revenantcabal-rgb/spiritvale-helper-releases/releases/download/v1.8.0/SpiritVale-Key-Helper-1.8.0.zip",
+    "sha256":  "1BFA3E8AFECC35B55B88DDD7C8D40B6382748C1692566F8ED4825069A98AF932",
+    "notes":  "A third always on row: Auto Move. It holds your forward key, usually W, so you walk without holding it down yourself. It sits with Auto Attack and Auto Loot in the panel under your ten hotkey slots, it is never one of them, and it arrives switched off so nothing moves until you tick it. Because it holds the key rather than tapping it, F8 is how you stand still. If you already had a row of your own set up to move forward, the app moves it into the new row and keeps your key, your mode and whether it was on, so there is nothing to set up again.",
+    "released":  "2026-08-02"
 }
