@@ -1,7 +1,7 @@
 {
-    "notes":  "First release of the new SpiritVale Helper. Real cooldown auto cast, rebuff watch, auto attack, calibrate from game log, and this built in updater.",
+    "notes":  "Mount button, an arm summary that states what is actually enabled, warnings when auto cast has nothing enabled or holds an instant buff or a mount, and aim evidence in the log. Module SVInject 1.4.0.",
     "released":  "2026-08-11",
-    "url":  "https://github.com/revenantcabal-rgb/spiritvale-helper-releases/releases/download/helper-v2.0.0/SpiritVale-Helper-2.0.0-update.zip",
-    "version":  "2.0.0",
-    "sha256":  "D2A185B85333DAAD2538EEC00A1A8BDF6CEB429F51A21DCC99CA30549D94959A"
+    "url":  "https://github.com/revenantcabal-rgb/spiritvale-helper-releases/releases/download/helper-v2.1.0/SpiritVale-Helper-2.1.0-update.zip",
+    "version":  "2.1.0",
+    "sha256":  "1513AD4F2AA0EB6CA0671B074A031BD8448C542BC6D2270D33DAEA79FA68C253"
 }
