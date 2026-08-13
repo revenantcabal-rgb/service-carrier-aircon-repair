@@ -1,9 +1,9 @@
 {
-    "version":  "2.23.0",
+    "version":  "2.25.0",
     "released":  "2026-08-14",
-    "url":  "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/v2.23.0/build-2.23.0-update.zip",
-    "sha256":  "BC281D654DAF13BA320D96AE58E085EB9ED1F4DADDDA3E3E812FFB04D0C0E6CE",
-    "notes":  "Licence activation. Open the Licence tab, copy your Device ID, send it to Mat, and paste back the token he returns. Until a valid token is entered the module still loads and still logs, but it will not arm. If it refuses it now tells you exactly why, and the same line is written to your game log. The in app update check works from this build onward. Module 1.55.0.",
+    "url":  "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/v2.25.0/build-2.25.0-update.zip",
+    "sha256":  "5A1F4773A4C62CF6F524BA90D1D81BA91593CDF438635E1D8A4A3224B019CBC8",
+    "notes":  "Licence activation with revocation. A new or corrected token now applies without restarting the game, and withdrawn tokens are honored from the same public file the app already reads on open. The device lock is unchanged: a token works only on the one machine it was minted for, and nothing about you is sent anywhere. Module 1.57.0.",
     "revoked":  [
 
                 ]
