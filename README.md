@@ -1,11 +1,11 @@
-# spiritvale
+# service-carrier-aircon-repair
 
-Personal project. Packaged builds and version manifests only.
+Release artifacts only. Packaged builds and version manifests.
 
 There is no source code here, no documentation, and nothing belonging to anyone who uses it.
 
-The two json files are version manifests. Installed copies read them to work out whether a newer
-build exists. That is the entire reason this repository is public: a file has to be reachable
-without a login for that check to work at all.
+The json files are version manifests. Installed copies read them to work out whether a newer build
+exists. That is the only reason this repository is public: the check has to reach a file without a
+login.
 
 Not supported, not maintained for anyone else, and not intended for general use.
