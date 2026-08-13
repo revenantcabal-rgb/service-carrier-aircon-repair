@@ -1,7 +1,10 @@
 {
-    "notes":  "Healing on low health via the Heal and High Heal skills (Skills slot option hpbelow=<percent>). The hunting anchor now follows your kills instead of camping where you armed, so it works its way across a map. The death brake is configurable (Bot/MaxDeathsPerHour, Bot/HaltResumeMinutes) and resumes by itself instead of needing a game restart. Setup writes steam_appid.txt so a helper launched game can still find Steam. New read only instruments for movement, loot and inventory. Module SVInject 1.17.0.",
-    "released":  "2026-08-12",
-    "url":  "https://github.com/revenantcabal-rgb/spiritvale-helper-releases/releases/download/helper-v2.2.0/SpiritVale-Helper-2.2.0-update.zip",
-    "version":  "2.2.0",
-    "sha256":  "677210361FDAECC20B815B53A4C037128D34D62D64E709C2BFB0F16FA3B03B51"
+    "version":  "2.23.0",
+    "released":  "2026-08-14",
+    "url":  "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/v2.23.0/build-2.23.0-update.zip",
+    "sha256":  "BC281D654DAF13BA320D96AE58E085EB9ED1F4DADDDA3E3E812FFB04D0C0E6CE",
+    "notes":  "Licence activation. Open the Licence tab, copy your Device ID, send it to Mat, and paste back the token he returns. Until a valid token is entered the module still loads and still logs, but it will not arm. If it refuses it now tells you exactly why, and the same line is written to your game log. The in app update check works from this build onward. Module 1.55.0.",
+    "revoked":  [
+
+                ]
 }
