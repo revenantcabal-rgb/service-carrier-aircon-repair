@@ -1,9 +1,9 @@
 {
-    "version":  "2.25.0",
+    "version":  "2.27.0",
     "released":  "2026-08-14",
-    "url":  "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/v2.25.0/build-2.25.0-update.zip",
-    "sha256":  "5A1F4773A4C62CF6F524BA90D1D81BA91593CDF438635E1D8A4A3224B019CBC8",
-    "notes":  "Licence activation with revocation. A new or corrected token now applies without restarting the game, and withdrawn tokens are honored from the same public file the app already reads on open. The device lock is unchanged: a token works only on the one machine it was minted for, and nothing about you is sent anywhere. Module 1.57.0.",
+    "url":  "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/v2.27.0/build-2.27.0-update.zip",
+    "sha256":  "7CB0E326C4D4584FBF72DC6E4A1329C422AA164A4F77E16E0B4551C016D6D09B",
+    "notes":  "Updates now bring the bot too, not only the app, so a fix reaches you by pressing Updates and then Play with Helper once, rather than installing a whole new file. The Licence tab is a little simpler. The device lock and revocation are unchanged. Module 1.58.0.",
     "revoked":  [
 
                 ]
