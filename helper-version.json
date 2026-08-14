@@ -1,10 +1,10 @@
 {
-    "version":  "2.28.0",
-    "moduleVersion":  "1.59.0",
-    "released":  "2026-08-14",
-    "url":  "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/v2.28.0/build-2.28.0-update.zip",
-    "sha256":  "E8CE4EF70635D9484C67CABB56256D3D72C91B89AAA7D8AD602D9739F43818A6",
-    "notes":  "Auto attack now has a real choice: always, only when no skill is ready, or never. Before this the grind bot pressed the attack key by itself no matter what the auto attack switch said. The bot no longer stops for the rest of your session after a few deaths, and the death limit can be changed while it is running. The monster search radius is now a setting instead of being fixed at 60. New warning when a skill is set under a name the key does not actually cast, which used to fail silently. Boss settings are one choice instead of three tickboxes. Optional idle wiggle, off by default. Module 1.59.0. Press Updates, then press Play with Helper once so the bot updates too.",
+    "version":  "2.29.0",
+    "moduleVersion":  "1.60.0",
+    "released":  "2026-08-15",
+    "url":  "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/v2.29.0/build-2.29.0-update.zip",
+    "sha256":  "D3A7A1FBDC1965F29ECDA187E18A011A29248CB627E114C6A8B25E85661754F2",
+    "notes":  "Your licence now decides whether the bot is installed at all. If it is missing, expired, revoked or for another machine, the bot is not installed and one already there is removed. Play normally never needs a licence. Skills for every class in the game, 19 rosters read from the game files, including Shinobi, Berserker and Gunslinger for the first time, and updates now carry new skills to you. Your own calibrated cooldowns are never overwritten. Setting the computer clock backwards no longer restores an expired licence. Module 1.60.0. Press Updates, then press Play with Helper once so the bot updates too.",
     "revoked":  [
 
                 ]
