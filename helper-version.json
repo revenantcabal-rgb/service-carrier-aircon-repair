@@ -1,9 +1,10 @@
 {
-    "version":  "2.27.0",
+    "version":  "2.28.0",
+    "moduleVersion":  "1.59.0",
     "released":  "2026-08-14",
-    "url":  "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/v2.27.0/build-2.27.0-update.zip",
-    "sha256":  "7CB0E326C4D4584FBF72DC6E4A1329C422AA164A4F77E16E0B4551C016D6D09B",
-    "notes":  "Updates now bring the bot too, not only the app, so a fix reaches you by pressing Updates and then Play with Helper once, rather than installing a whole new file. The Licence tab is a little simpler. The device lock and revocation are unchanged. Module 1.58.0.",
+    "url":  "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/v2.28.0/build-2.28.0-update.zip",
+    "sha256":  "E8CE4EF70635D9484C67CABB56256D3D72C91B89AAA7D8AD602D9739F43818A6",
+    "notes":  "Auto attack now has a real choice: always, only when no skill is ready, or never. Before this the grind bot pressed the attack key by itself no matter what the auto attack switch said. The bot no longer stops for the rest of your session after a few deaths, and the death limit can be changed while it is running. The monster search radius is now a setting instead of being fixed at 60. New warning when a skill is set under a name the key does not actually cast, which used to fail silently. Boss settings are one choice instead of three tickboxes. Optional idle wiggle, off by default. Module 1.59.0. Press Updates, then press Play with Helper once so the bot updates too.",
     "revoked":  [
 
                 ]
