@@ -1,10 +1,10 @@
 {
-    "version":  "2.29.0",
-    "moduleVersion":  "1.60.0",
+    "version":  "2.30.0",
+    "moduleVersion":  "1.61.0",
     "released":  "2026-08-15",
-    "url":  "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/v2.29.0/build-2.29.0-update.zip",
-    "sha256":  "D3A7A1FBDC1965F29ECDA187E18A011A29248CB627E114C6A8B25E85661754F2",
-    "notes":  "Your licence now decides whether the bot is installed at all. If it is missing, expired, revoked or for another machine, the bot is not installed and one already there is removed. Play normally never needs a licence. Skills for every class in the game, 19 rosters read from the game files, including Shinobi, Berserker and Gunslinger for the first time, and updates now carry new skills to you. Your own calibrated cooldowns are never overwritten. Setting the computer clock backwards no longer restores an expired licence. Module 1.60.0. Press Updates, then press Play with Helper once so the bot updates too.",
+    "url":  "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/v2.30.0/build-2.30.0-update.zip",
+    "sha256":  "98C9EEF7A8577A0F44F056BB5830F8E478F12F21FEA2F7D3105F2DF980640E20",
+    "notes":  "The bot could not read how far your character actually attacks from, on every session, and fell back to a guess of 3 units. That is why it walked right up against monsters before casting and sometimes froze there. It now reads the real value. Every skill in the game now knows whether it is placed on the ground or cast on a target, all 19 classes, read from the game's own files. The app warns you when you arm with a ground placed skill and no aim setting, and says so plainly if that skill is a movement skill like Blink that will move your character to the mouse. Each skill can carry its own aim setting now; existing profiles are unchanged until you set it. After a death the bot keeps its bookkeeping straight while paused, says which map it came back on, and publishes whether it is paused and for how long. Module 1.61.0. Press Updates, then press Play with Helper once so the bot updates too.",
     "revoked":  [
 
                 ]
