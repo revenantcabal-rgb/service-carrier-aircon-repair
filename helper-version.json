@@ -1,10 +1,10 @@
 {
-    "version":  "2.30.0",
-    "moduleVersion":  "1.61.0",
+    "version":  "2.36.0",
+    "moduleVersion":  "1.72.0",
     "released":  "2026-08-15",
-    "url":  "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/v2.30.0/build-2.30.0-update.zip",
-    "sha256":  "98C9EEF7A8577A0F44F056BB5830F8E478F12F21FEA2F7D3105F2DF980640E20",
-    "notes":  "The bot could not read how far your character actually attacks from, on every session, and fell back to a guess of 3 units. That is why it walked right up against monsters before casting and sometimes froze there. It now reads the real value. Every skill in the game now knows whether it is placed on the ground or cast on a target, all 19 classes, read from the game's own files. The app warns you when you arm with a ground placed skill and no aim setting, and says so plainly if that skill is a movement skill like Blink that will move your character to the mouse. Each skill can carry its own aim setting now; existing profiles are unchanged until you set it. After a death the bot keeps its bookkeeping straight while paused, says which map it came back on, and publishes whether it is paused and for how long. Module 1.61.0. Press Updates, then press Play with Helper once so the bot updates too.",
+    "url":  "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/v2.36.0/build-2.36.0-update.zip",
+    "sha256":  "6E5F4E17C13744395286EE1E331F60E33A59091C6DD749B114AA2731E79198F3",
+    "notes":  "Steadier pathing: the bot now asks the game whether it still holds a route before re sending a destination, which removes two thirds of its own move command churn. Two new optional switches, both OFF until you turn them on in the app: auto respawn in town after a death, and a dodge roll out of monster ground casts. The Live status panel now shows your gold and exp rates for the session. Looting is fully removed. Press Updates, then press Play with Helper once so the bot updates too.",
     "revoked":  [
 
                 ]
