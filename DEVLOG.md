@@ -2,7 +2,15 @@
 
 What is being built for the helper, newest first. Feature names match the app's own pages. Nothing in this log changes your install; updates arrive through the app's Updates button as always. The current public version stays 2.36.0 until testing completes.
 
-## 2026-08-18 (later the same day)
+## 2026-08-18 (evening)
+
+**Done and tested on the development branch (not yet released):**
+
+- Pick the arm and disarm hotkey in Setup: a chooser now offers F1 to F12 and Insert, Delete, Home, End, Page Up and Page Down, all keys with no ordinary typing meaning. The hotkey already worked while the game has focus; this lets you move it off F8 if something else needs that key.
+- New installs now start with the safety settings already on: the staff watch and leaving a shard when a boss shows up. Your existing settings are untouched; this only changes what a fresh setup begins with.
+- Keep the session alive (settings in place, the relaunch itself still in testing): three switches under Setup to restart the game and log back in when an overnight session stops, if the client closes or crashes, if it stops responding, or if it stops getting kills, gold and exp for a set number of minutes. At most two restarts in any thirty minutes so a broken session cannot loop.
+
+## 2026-08-18 (afternoon)
 
 **Done and tested on the development branch (not yet released):**
 
