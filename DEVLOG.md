@@ -2,6 +2,14 @@
 
 What is being built for the helper, newest first. Feature names match the app's own pages. Nothing in this log changes your install; updates arrive through the app's Updates button as always. The current public version stays 2.36.0 until testing completes.
 
+## 2026-08-18 (later the same day)
+
+**Done and tested on the development branch (not yet released):**
+
+- This map: the Loot page's catalog gains an All / This map switch. This map lists every drop the monsters on your current map can produce, read live from your running session, so you can set rules for exactly what you are farming. The selected item's header also says when it drops on your current map.
+- The full item catalog: with a session running, the app now learns the game's whole item list, including grimoires and cosmetics, and keeps it for offline editing too. The catalog pane says when the live catalog is merged in.
+- Item icons: every catalog row and the selected item header now show the item's own art.
+
 ## 2026-08-18
 
 **Done and tested on the development branch (not yet released):**
