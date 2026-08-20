@@ -1,0 +1,8 @@
+{
+  "version": "0.1.0",
+  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.1.0/SpiritVale-Companion-Setup-0.1.0.exe",
+  "sha256": "0b5adc826986fdec563c3daa1d5ed7018fc1f2e60a2632c9fb95d908ebdc9ac0",
+  "signature": "Y0LULh9e136JKQFr2Jz5Qqho6LASpu+aT8e4m6Fazj1xG4ziSx4iS7f+7Masb6l99n3XjnjYue6J6vvkRp8AGqoZO/Y00Iv9RsydqXimOFtS3nv/SUv12zXVK8fhDtXduTgtyrE5LlT5k8Vj3Lcd+te0OU+LzBSH9npUfsPJoJxoP/KVoUHDPSGbwptuf8VsarKDKIQ9UH5BuqNl0NHCl/rYDJZWxsM7ZcZa44TvQsVemBiiLBS5z+3L9AwNPApsQbWzVEHj7YqT56Bkg2uH8g87OASBEHH2WeyE+Dhz+DGNS3pFxcDor81g2scT+/5WqMZKJ2p1Zutj2n1XcGcJJw==",
+  "notes": "First release. Install components once with the game closed and the app does the rest.",
+  "mandatory": false
+}
