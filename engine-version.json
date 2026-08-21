@@ -1,8 +1,8 @@
 {
-  "version": "0.4.1",
-  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.4.1/engine-build-0.4.1.exe",
-  "sha256": "71cb4ed007c13678a4125617bd93b12aab7380014ba9b63ee6a3d90d96fd7dd9",
-  "signature": "XEfSdSy8X8A1qlol8OPWNYpdDRTV4GevPFhWy+GnBN6Xf3vWPvIkN8wud7QIiRrKF3PmW0E0UFr8MRkcfKWmNgOXD0f8+mm/cv0/bebXe70sXAXAo79xGptS1qdZBOli+o/1xENisXPCEarkuIjf1yEzJR+v9flOSrrzQMdXiq7rFr+JuntVJZzIUz64pscXyh2xV7S/tyjjbi1k8Uge9WQD8M6QGx+hIKm3cNjqVy4AcPZXoMAMKYi3kWWYl3DV1/SHWKQldmawJmox/pYTR/tgGurtCUUCVmH72KzL4+ePQPh7j0earRIYiCh6KNqJQ4v0RXhDmq1fTQSjbdWjUw==",
-  "notes": "Blink rules and both Auto Rapid slots can be switched on again. The status line at the bottom now names what the bot is doing, casting, attacking or moving, instead of always reading Waiting for the next pass. The Info page has a new Versions card showing the app, the bot plugin and the BepInEx loader separately. After updating, close the game and press Patch once so the plugin updates too.",
+  "version": "0.4.2",
+  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.4.2/engine-build-0.4.2.exe",
+  "sha256": "ea84e26d62d635d22236ffe2d20d40928bc05c8cd1f0455be2ad1f787a596738",
+  "signature": "AcNPfgq5Z3VReSzuM5yb7D54HjiBN0pBYC5AjRj3E5xGIhDvKN7n+509bNYI790Abxa/VUaikZvgFZ1UUq15MiBMhy7oKik61YmoVNccdhfFjhcqZcE4y5RvUf0FuYLJ8fFAKmz6tVnfGyoQ5QUlej41WOUrv7z1pKaCu7/rzmM8oLK7hK2d/vPm3ulDu50Q/7Dn0C5oAuhYuWdmen3XxhjEeh0nAmG4LCAv0GpHcyiKFbDnAL7UQ25zzXG+opnyHzJzJmDgH6qP66UuXe9yzX+KMu9x3jpFvwP/HBi6v2cFyyAMp8iLELsDYv0Jwm/iFzqgf7dtjtW5slz95SCLWQ==",
+  "notes": "Auto reconnect now remembers your server, and tells you when it has none. Updates no longer reset your settings, starting from this version, so this is the last update that asks you to redo them. Close the game before installing this one, press Patch after, then log in once by hand.",
   "mandatory": false
 }
