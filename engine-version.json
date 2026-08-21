@@ -1,8 +1,8 @@
 {
-  "version": "0.4.4",
-  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.4.4/engine-build-0.4.4.exe",
-  "sha256": "22f855713ed9470957c66fb5d5d3df0fb7762563ec3b7945e13abe41516a088d",
-  "signature": "lCUnubV5VCYyn5RkSn4NUkouo/FpW099n6oGXloX+lQJarmvtmVa7LnNNrWavd8lXJuVKE47dN31bovTW74ZnLADNFw7D3Sx03+H10oKbPE6LQeqi8gXVSpd+ss3DYZ0FvC6hG5eSNSRntLO08z7NikZcGuAeTHIEugnAPfHJ8nRyV/HqEawAoQ/L7FhMrcnrGxDlq5iGFmBz07LdE6Rvd7rHlnIVjOfVWCHE567qOQHoO6yD/VBCoyxj9dhImwcQHew/UagnQJsxdV/2EZdF2j3+4iI6wVJlDbhi9C16i9VwXe1HdhuTaJxR25WjlLjM1kYbVmIj1LYyLjPKcqIVw==",
-  "notes": "Your friend's five fixes from Spirit Engine v0.1.109 are in. Trigger Happy comes back after a death while farming. The farming map no longer leaves you standing still when another player has locked the monster you were sent at. Rotations no longer throw a normal attack while a skill is casting or cooling down, they continue properly after Chain Lightning, and they use your whole skill list across enemies instead of restarting at the first skill. The elemental barriers no longer switch you to an avatar you never put in the buff rotation. The BepInEx console window no longer opens. Nothing is reset by this update. Press Refresh game helper once after it installs, with the game closed.",
+  "version": "0.4.5",
+  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.4.5/engine-build-0.4.5.exe",
+  "sha256": "35663d5653db745bbe67d57278e49befaf4baf50d152162b7516369c42b7d5e2",
+  "signature": "DgCl7aXE/g7xLJNSC+fVTStTOxu7kwJJf561zYtIOVEWdAwoQjLXLBxTmQQvzGFEYEUjJCrzY8mMsDo4wnPITdJkSlEyHsqZobHBI39LJfSFXUx8mkJv8K4JMmJy/K76VG5BajcReBMTPBEilON1lxARhfBHn5575lBzki9w/CXx+T2nJw9kcGES4MmNQRCInPllm7WUk0nNyTdQs770HvFax0srywwyYiZbjgjXB88a764qnPcXVZbkeZ6jCZAzYMMW3HuNNXvYdkEsHKu9XkqQyp2vTIkStcnq+RDQbny7h9PKgYKVxps1I+8VHCrEkMlmkG6cmIyI82KXklDx5g==",
+  "notes": "A security fix for your licence. The check that stops a wound back clock kept its record in one file, and deleting that file reset it. It now keeps a second copy somewhere else and the two repair each other, and the app and the bot now read the same rule so they can never disagree about your licence. Nothing is reset by this update and your settings are untouched. Press Refresh game helper once after it installs, with the game closed.",
   "mandatory": false
 }
