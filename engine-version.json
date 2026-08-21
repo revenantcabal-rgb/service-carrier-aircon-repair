@@ -1,8 +1,8 @@
 {
-  "version": "0.4.6",
-  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.4.6/engine-build-0.4.6.exe",
-  "sha256": "a47d18efc6d1f87cf2f8326fc34ef7cc3d7d4f1f222aee9e264cc4edab25055d",
-  "signature": "g821Zb1L8B/fO8wssnSsDv9wnbpsmG8Un0Cn3e+RRUpxoxwM1mgw9cUcKw0pT4SUnd5bljHRHvzEbKVD8EYcsnjl1K324N14fc/iHIgNY4v0B8TvBkBE/7RvAqZx0E6+P92HLfOMkRbZe6NzcBwyWVmFl9gWbrD2HhTd/6tmgL32fcaAO9v4NEAaDa0Uk4vz9KE5eBAsYEtkE83TMhp1qTdA/AgM42paW6QVnC9HH7RTS0/WmOrIKGDEiepbIv5Zsh1wZAcBabM8rwZpYXOPVtGk1IXIh/T0DSBwHFEmjdZtA8XSDfdVLSyKzqd0KmZkxPhjNtKbUs8p3Wm652zVzw==",
-  "notes": "Auto reconnect now actually gets you back in. It was remembering the exact shard you were on, like sea5-15, but the login screen only lists regions, so it looked for a server that was never in the list and sat there refusing. It now looks your shard up in the game's own server list and picks the right region from it. If it ever cannot, it now says why in the log instead of failing silently. Nothing is reset by this update. Press Refresh game helper once after it installs, with the game closed.",
+  "version": "0.4.7",
+  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.4.7/engine-build-0.4.7.exe",
+  "sha256": "41cde0685cc897c8e3418ad381c9ebec3e90f85b2d1daedc4020c471b4caecae",
+  "signature": "HzkkgyEMZufKPkN+REutOuUPEdxvl1K7vgVuluWGddpvse6VSgPVIVMB3i1544HUelHIGeH2dQ1TtIfgS8+bCrRFVgy/fdbaHnNqAVnCtVc3o0F+wmbhExcp6GhiY3Okisg1nbyKCDRtODBx+ySIqgIBmgD7Uoc3kYO3d1M/jAmO9bSAP/itmUxUnJ5uXa1ztbW9u4I8nF06R0xuH7RtRFX0mfamhOG2wH+QKTxCHywhChSQx1OhtuJbBm++nZVrCtpNnXhNn7LibKdd2hZjqqtfAapHNrOeFxOaTh5ll01J2bLhWwZgjgfpbtfHzeJtlrbdktWZljwQE2V1MH/+Ew==",
+  "notes": "Your licence now stays put when you update. It used to sit inside the folder the updater replaces, so it went with it and you had to paste your key again. Nothing is reset by this update. Press Patch once after it installs, with the game closed.",
   "mandatory": false
 }
