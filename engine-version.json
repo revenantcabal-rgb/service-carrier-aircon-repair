@@ -1,8 +1,8 @@
 {
-  "version": "0.4.2",
-  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.4.2/engine-build-0.4.2.exe",
-  "sha256": "ea84e26d62d635d22236ffe2d20d40928bc05c8cd1f0455be2ad1f787a596738",
-  "signature": "AcNPfgq5Z3VReSzuM5yb7D54HjiBN0pBYC5AjRj3E5xGIhDvKN7n+509bNYI790Abxa/VUaikZvgFZ1UUq15MiBMhy7oKik61YmoVNccdhfFjhcqZcE4y5RvUf0FuYLJ8fFAKmz6tVnfGyoQ5QUlej41WOUrv7z1pKaCu7/rzmM8oLK7hK2d/vPm3ulDu50Q/7Dn0C5oAuhYuWdmen3XxhjEeh0nAmG4LCAv0GpHcyiKFbDnAL7UQ25zzXG+opnyHzJzJmDgH6qP66UuXe9yzX+KMu9x3jpFvwP/HBi6v2cFyyAMp8iLELsDYv0Jwm/iFzqgf7dtjtW5slz95SCLWQ==",
-  "notes": "Auto reconnect now remembers your server, and tells you when it has none. Updates no longer reset your settings, starting from this version, so this is the last update that asks you to redo them. Close the game before installing this one, press Patch after, then log in once by hand.",
+  "version": "0.4.3",
+  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.4.3/engine-build-0.4.3.exe",
+  "sha256": "d3950359ff6692ddaec979c22cb15d78f71447aac3500ca25c2d6310c3952528",
+  "signature": "TwSRR3feiKbK0yLXKUXb2+kgH+v5H5Az43GwyNN1eAvEH8Ncp8IPSS2RFdWg/8N3r5xXtXZMWYTf0wg79LfmkG4LHwsTgUgKEYVvKgl/o8RBid17oVajIylGdp2Tk9ptwML1BazWA9eZjb2VzpIPXe+Yr0Fz6/lpmeTHtO1d8s/ONVJPMvYjqWfTCO5bNg8/5deDWP2wLkZUhv6L5Khm3C48cqc//byz4HNau+G4ekN6cnW54WN3rGTsDG+QpLkHaujrzVyy802NFm4p6POakMQQFQAaWzUOONh3gM73bD0yXLOnGbxeERezzgTtPsrKeNxMXdBCrE3rjx5robCVxg==",
+  "notes": "Auto reconnect now finds your server. It was recording the exact shard you played on and the server list only shows regions, so it sat at the list refusing. It now recognises the region inside the shard name. Nothing is reset by this update. Press Patch once after it installs, with the game closed.",
   "mandatory": false
 }
