@@ -1,8 +1,8 @@
 {
-  "version": "0.4.3",
-  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.4.3/engine-build-0.4.3.exe",
-  "sha256": "d3950359ff6692ddaec979c22cb15d78f71447aac3500ca25c2d6310c3952528",
-  "signature": "TwSRR3feiKbK0yLXKUXb2+kgH+v5H5Az43GwyNN1eAvEH8Ncp8IPSS2RFdWg/8N3r5xXtXZMWYTf0wg79LfmkG4LHwsTgUgKEYVvKgl/o8RBid17oVajIylGdp2Tk9ptwML1BazWA9eZjb2VzpIPXe+Yr0Fz6/lpmeTHtO1d8s/ONVJPMvYjqWfTCO5bNg8/5deDWP2wLkZUhv6L5Khm3C48cqc//byz4HNau+G4ekN6cnW54WN3rGTsDG+QpLkHaujrzVyy802NFm4p6POakMQQFQAaWzUOONh3gM73bD0yXLOnGbxeERezzgTtPsrKeNxMXdBCrE3rjx5robCVxg==",
-  "notes": "Auto reconnect now finds your server. It was recording the exact shard you played on and the server list only shows regions, so it sat at the list refusing. It now recognises the region inside the shard name. Nothing is reset by this update. Press Patch once after it installs, with the game closed.",
+  "version": "0.4.4",
+  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.4.4/engine-build-0.4.4.exe",
+  "sha256": "22f855713ed9470957c66fb5d5d3df0fb7762563ec3b7945e13abe41516a088d",
+  "signature": "lCUnubV5VCYyn5RkSn4NUkouo/FpW099n6oGXloX+lQJarmvtmVa7LnNNrWavd8lXJuVKE47dN31bovTW74ZnLADNFw7D3Sx03+H10oKbPE6LQeqi8gXVSpd+ss3DYZ0FvC6hG5eSNSRntLO08z7NikZcGuAeTHIEugnAPfHJ8nRyV/HqEawAoQ/L7FhMrcnrGxDlq5iGFmBz07LdE6Rvd7rHlnIVjOfVWCHE567qOQHoO6yD/VBCoyxj9dhImwcQHew/UagnQJsxdV/2EZdF2j3+4iI6wVJlDbhi9C16i9VwXe1HdhuTaJxR25WjlLjM1kYbVmIj1LYyLjPKcqIVw==",
+  "notes": "Your friend's five fixes from Spirit Engine v0.1.109 are in. Trigger Happy comes back after a death while farming. The farming map no longer leaves you standing still when another player has locked the monster you were sent at. Rotations no longer throw a normal attack while a skill is casting or cooling down, they continue properly after Chain Lightning, and they use your whole skill list across enemies instead of restarting at the first skill. The elemental barriers no longer switch you to an avatar you never put in the buff rotation. The BepInEx console window no longer opens. Nothing is reset by this update. Press Refresh game helper once after it installs, with the game closed.",
   "mandatory": false
 }
