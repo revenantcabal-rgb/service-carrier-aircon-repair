@@ -1,8 +1,8 @@
 {
-  "version": "0.4.7",
-  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.4.7/engine-build-0.4.7.exe",
-  "sha256": "41cde0685cc897c8e3418ad381c9ebec3e90f85b2d1daedc4020c471b4caecae",
-  "signature": "HzkkgyEMZufKPkN+REutOuUPEdxvl1K7vgVuluWGddpvse6VSgPVIVMB3i1544HUelHIGeH2dQ1TtIfgS8+bCrRFVgy/fdbaHnNqAVnCtVc3o0F+wmbhExcp6GhiY3Okisg1nbyKCDRtODBx+ySIqgIBmgD7Uoc3kYO3d1M/jAmO9bSAP/itmUxUnJ5uXa1ztbW9u4I8nF06R0xuH7RtRFX0mfamhOG2wH+QKTxCHywhChSQx1OhtuJbBm++nZVrCtpNnXhNn7LibKdd2hZjqqtfAapHNrOeFxOaTh5ll01J2bLhWwZgjgfpbtfHzeJtlrbdktWZljwQE2V1MH/+Ew==",
-  "notes": "Your licence now stays put when you update. It used to sit inside the folder the updater replaces, so it went with it and you had to paste your key again. Nothing is reset by this update. Press Patch once after it installs, with the game closed.",
+  "version": "0.7.0",
+  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.7.0/engine-build-0.7.0.exe",
+  "sha256": "3719f317fc311dc3d5a06d49726a02c37f8f91a0a4ba024efbea14296b55ae3a",
+  "signature": "dZgY58GVqYK9GqLKvVZmAiiBoUVEUvgV37OOWoGFy7nHGuIVXlsfV4+q18GnxYjpV2YXrBsCWVA1z0bq4CmAJ7qXxjZOQPQ6Zd5QL8JZ19hFR+LfI2E1tb13IPhBFwhBVBqCoEGWsbd4BPqL2UecQlJi88cRsIftpJiFphKHYqrnAo8ngVnDKhbkPmmUAdqtFIM2L4Zz2UYM9/hj+us57nSVDcWSmbzuNYVNFmsQXu/2d2W7n8Tz1NVUrQzPxlE4/YiM5U0xQyfr1couUn3qw+tmYkBtXsmZnomHWkbwg/Av+43zDwo+Ga2Pr8pDlWqEzbQ+Mf3QQ5WF9UWyhmsL+A==",
+  "notes": "Fourteen fixes from a full audit. The bot no longer treats a GM hold as a stall, and the move block no longer releases on casts it did not send. New installs are no longer told another bot is present, the buttons named in the messages now exist, and a refusal that you fix now clears instead of staying on screen all session.",
   "mandatory": false
 }
