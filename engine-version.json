@@ -1,10 +1,10 @@
 {
-  "version": "0.9.2",
-  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.9.2/engine-build-0.9.2.exe",
-  "sha256": "7b17c12c46f86878ec91728c8696dc3ec9a2445c669448d60cd08031d39788ce",
-  "signature": "V1lYwMLsk2XjCqTzlr9CcqxvDT3CUNFhtOGIGvUd1LhvfSCxMMC8Asrhcq3UDIYOdLd12wLKeC9fhvc3bSENC7PEuTTBwqdYsFeYKr+g/2VF/BqcGflvuLFD+8zoOw3us9j4MT2hht7nQ6NunXvO5EqUcO1UfHGyHxdm5hhJqT90pmM0ybGGU46m2lTMaFfXNwaUK/WQiTcrpaLeDNar7Dr/9juSdtMB+GXyYDBpTNa9QFu93PItJkqeD01a4xnG9LifEsRHmV77H0r/o/CS3j3Y+jgnqzJBH11kg//iWn1eJN1hSZ138VXG2NKMglWs2+blQ9zoXTuF6Giy4VVWfQ==",
-  "notes": "This build fixes the bot showing Offline after a clean game reinstall, and it now sets up the game helper for you. Just update the app and, with the game closed, it repairs itself. No buttons to press, nothing to delete.",
+  "version": "0.9.3",
+  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.9.3/engine-build-0.9.3.exe",
+  "sha256": "13bf6bf519f28f2350f2ce2d74d089fad574c085009122a76af095d468c9df8d",
+  "signature": "B5smNo8vG4aU4HanPhZLL8aK7NST1lmOoKLe7F5R74FK47OfuBopcGT5L4OzBmnHJlk7Um/B6/geo/8tf79vpgF3nHuN8zT0yPJnF8FITnNRhWq7mUfTFTUoyqo+aPzNrUL++Uc3klsdzdPmF5pm4oTcrkAu2+ot8PxPEZc6xHZJ9QUGPxnCnFXxVAMIF/SWrSZSTdCsjS+OfH9FZEsrtwdZBYGgR8gQkAdOWcj3espxY6uFUjNcsfuGj3gZC51K3STHgybCnCm4+sdmvSAn0KC37/vf9CIa+imvbEVT8A2du4VAX7NA0xtSaHMpt3KCN18fBTcgFaHDo522dLptag==",
+  "notes": "This build makes the game helper set itself up and repair itself when the game is closed, and it keeps our plugins folder clean so only our bot loads. Just update the app; no buttons to press, nothing to delete.",
   "mandatory": false,
   "revoked": [],
-  "revokedSignature": "QIv+lf6PayA5FBofdfd/OAw73TJzDcQtqFNoJkajbBAHvhOqvZ5INay1aTAOEA/OxFHNoZHWEKLwCk9dbMNC7b2CoNxaZsT4AxQfQWoO6+sdKpj4yAwU+7eL/dAHYysM+f6ZuNSVa3w0/3LxVxl+/iyxewJuuuht4Au+8gFuYaedSxxxAzbSvm8rYmvhhPybPIntvl0+tKtOuLIiwB9S93WKAWf3OEPsu3mqKk+2InHD6DryV4SVd99HBPabYXbfsG/s0W2Uz4rJ/HtjlO+0br6XMVjEgAIU86/4nHS8n16cog8V8jzwKO+1LhzdojcSsalnGg5CSen1dqT9dScD9g=="
+  "revokedSignature": "E8o44HSqzf9yUAMTQCKBwJo5Cg56kvsbedwPX3Lioc2whDE233SJ25xtEbihOg1J7eySnEZ664SQNZiwtoU4WbcZnu6tfSJT/IAhjJKZNMQTzpfh4/ZPe74xokOAgymZggHzAJ91LTf3fAqIVEQlVNfFIxRoJee38GQw2LdjhTR7v2cm24xyCcDJBj6KVe6Tlr3zfmSVEFS3S64M1UJlrgomjYvUK9Xg++mSo7P5S8aD9IBl77XV9n9MGtD6OK31Crs6llA9pZ9ECImdL1Vj1PviMogI4thpzYxp2lja3JkxDxuyicLdPtO5fFY/VBDSkNoG/Vy/4CECusPGBh9GdQ=="
 }
