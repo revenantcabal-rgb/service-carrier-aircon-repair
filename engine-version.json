@@ -1,10 +1,10 @@
 {
-  "version": "0.9.0",
-  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.9.0/engine-build-0.9.0.exe",
-  "sha256": "cc761a0f1116e76536e9409bdbef5a756f47aeb97076e0197ec623c92818edff",
-  "signature": "doCfRnkqPwxTl3dkySfIspRp7s6IEqM/HvaESoPHav/2DMTPY9yMm6zu8hPrsJ8/9IhNS77Hm18rO2/U5dpYv4HrNEg0UbCRPzof8cl4MUpEHxULj2Q5TBv8FQKKoVl2k+s2MWy8ZaaNbo+JxpF7it2FMncR2KVJH6QfimP/bdt64T86qy9USeE+IHSNnGHqqM/1riUvzGq+pYG3T1stx/sBHJZ+JfBu7Ray7gmULmscdVUPluqpa1DXOokgQYj1h8EjQEDoib7gdGsn+I7H2twOL/7I71D08qP4j1bVmKi8H7OmvrcahJP3y1Tev9CqiXhdqYu8cu2k23fxSW+Rmg==",
-  "notes": "This build checks your licence with the online service and moves the game helper to a new local port. A licence that is withdrawn or expired now stops cleanly and shows the reason instead of a blank panel. After the app updates, click the patch button once so the game helper updates to match.",
+  "version": "0.9.1",
+  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.9.1/engine-build-0.9.1.exe",
+  "sha256": "97334734c1fa69ff69bea9f09347dcf92791d3d39deda2adc4748628292afb04",
+  "signature": "GsRbOs4gonsL9kpxTqqFaYBwz2gvOOu9O8m8t1B2/qKyyCaFavxwTtOpEK0QNPvf9n7fNL/v4bkLN5OE4wRWxPPAy6LdboNbLSJttvBztbKq1cvw25q8ZLkthP4SR7O8F6lXy/b8b1/JdkaTsLc2QyfcrLNpwXFCYDBXAfxcMkuGobMBfT991Oz9NuR6utJerykAoq15A/G1YXERQOVbngmFzh3CKsViKXGtnM5y+H8LPhDy7jYeVYqr9uRC9w5EKFKf/jCt+NC8WiSsbULa9cAS/XUIoLgYew93i4sYJKDnFLyVroBZpJJe0CJgjuFw6/nO8LjxnvAiyZt3DNgz3w==",
+  "notes": "This build updates the game helper for the game's latest version and its new protection. Close the game, update the app, then press Refresh game helper once so the helper updates to match, and start the game.",
   "mandatory": false,
   "revoked": [],
-  "revokedSignature": "gUdoZn/q04ywrS1kZoCBpeqCmlx+Gua8Nh1t9g0y5ec2ih3/puXWeewfHPBgUms9npESKFPJ6GJhHkq135zkH+E/WJEPH1/4NCWCIxrxJ7Q/zq9YOdxCaRN4gsEdsTZKCDUOFp0jfKCIvGhk3gywrB2Dm1dXDXl72WWLuyVK5+4qqYzY9Xa+wbl72ZtZel47UrczzF2UrUaChmilrruVCOLO/Wzq+Az+C7vXRhmLX1g4F/t4sXJSvZV1EuoddWgb2gMDK7mq0pwD4OzKrHarUHSX4GtAyIl1U8gLB7eAkUnHIM/B9nZav/cJjJQoI01wLfU6+XaPXVCjrjTfJpIJNg=="
+  "revokedSignature": "kyy7smg9/PTE6O+44qRu9MOh5TZ3SYY2XaL2kik2yu7yn0Ez7plMHsZ51FRO6QqqYdgXfs1RhS9jUU41TuImPdpcu6n24EJyl4+cPOAxA6pPbJyZatRSCC+iGwfILSFQvvH/4fOixWi9O/UsaHX7kCQSryZK1tyEfay5pN3k6mZQyDq4nsby1B2Ev8cwqWc50pElF/LnODovjUxp1th96v0rSnG8YjtepQ2EIbU2YZMxUsb5/6wXzKjm9nGuKE1WtKnSFMfNtPHIy8OC3NYJaozjgbfqJCzZee43BP34GWOp+iKPqdTGR53N/CnHnCB8pz0jfvR+SN7yG8K/uPJ1+A=="
 }
