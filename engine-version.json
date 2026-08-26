@@ -6,9 +6,10 @@
   "notes": "This build makes the game helper set itself up and repair itself when the game is closed, and it keeps our plugins folder clean so only our bot loads. Just update the app; no buttons to press, nothing to delete.",
   "mandatory": false,
   "revoked": [
+    4,
     11,
     14,
     16
   ],
-  "revokedSignature": "OKdQ9zQ6XWZ4MoSmscJelIYqgCe9vcsKVo2Uvhc2HbgNjQ3uvnBzTJ0bGheIU5FtFe6yUuF3MmZNkQ0CgFs5TKDfYbY7rnSE++6p+phzwTyh6WdmMswtMT5Y7nXwAL1n3ijDF4Hwmxbk8vtAfiEGmvratAWhmvIq5de3Dq3fTh7Ds+nEEUFbbGos/UnUUKvhbPRMzE0mHwWPV7CoPtlMxT5QIVVZQ/a9jzKgIT79DMPmJmwq3/R5afZVZgn5eOeW0d9WqhMTcdXi6nPphkIME2Wo7znEiyyJvnLleNrfMhBlT95aPIRgwMUarKjzc8QFyRrFOGmcv0uK29xsQ0levQ=="
+  "revokedSignature": "XRoaNfsuVCRuAqGBixHNEfn1Bb5bMOener8scSj1kZQB6LiAo+CZu4Q3bHob4NqvIp/L17N6OhGlCqb9CfHqNWppN56lZDFHVimIwwg111lTFlzL+gLi+X1vv54FMXnS2sCeNgbSLg7ZNBIoNPqshrjgrRi0vGLL8BGxElxV2lAGTIhb3dO/y92pV9Vd7athY2lRI3ewFdvXpMOqGUmd4T3FQmrEsR10ZhX0wGaHpA4O0XpMCRjBsqA+iCtUFdV/IfJbwtUgWSizBYdwfPgkk84TYb0wpFwkkOByi2RJRsVZjolf/vvBo8alLluDoEBbDviqG2g1BcIci1pJ4m+IZw=="
 }
