@@ -1,9 +1,9 @@
 {
-  "version": "0.9.3",
-  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.9.3/engine-build-0.9.3.exe",
-  "sha256": "13bf6bf519f28f2350f2ce2d74d089fad574c085009122a76af095d468c9df8d",
-  "signature": "B5smNo8vG4aU4HanPhZLL8aK7NST1lmOoKLe7F5R74FK47OfuBopcGT5L4OzBmnHJlk7Um/B6/geo/8tf79vpgF3nHuN8zT0yPJnF8FITnNRhWq7mUfTFTUoyqo+aPzNrUL++Uc3klsdzdPmF5pm4oTcrkAu2+ot8PxPEZc6xHZJ9QUGPxnCnFXxVAMIF/SWrSZSTdCsjS+OfH9FZEsrtwdZBYGgR8gQkAdOWcj3espxY6uFUjNcsfuGj3gZC51K3STHgybCnCm4+sdmvSAn0KC37/vf9CIa+imvbEVT8A2du4VAX7NA0xtSaHMpt3KCN18fBTcgFaHDo522dLptag==",
-  "notes": "This build makes the game helper set itself up and repair itself when the game is closed, and it keeps our plugins folder clean so only our bot loads. Just update the app; no buttons to press, nothing to delete.",
+  "version": "0.9.4",
+  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.9.4/engine-build-0.9.4.exe",
+  "sha256": "53a6ddead8a102177ccea21b1879b50bd5b3d1f26e002451b2a9983ea0a74393",
+  "signature": "WvkSlYwz7X9uXfWdQfxPXf21uUFeWL+rKll7J9SW1w1sFbRVOW91iHoHzY0DBPj9ZQwMWL6mAruZBRD6Tt8cUYGjJjf5Hr9Viw8MKY1qp1Em10ZZfxFG48QDE+hZwjA3rYmto8YpQSMSJYQPGxmUs+O5VTmMIUcz1pnLfVnyRcYw/hIgALLi5SmFLBMVTp+8mltb4zQxcZsmBitleCuEDFh+ngcmXNi9yMVultqgN+ENwFecCrGnjsRSWM4Kj0SZ+PW7htpnO1WKBxw/DSNjt3km2wP8nB9cvLTa87cAvohHK8STJc36w5XcBniEmaXOsZTl7fsnsW2HDqbXtTEEWA==",
+  "notes": "New: Dodge Enemy Ground Skills. Your character rolls out of enemy ground attack telegraphs, the circles that appear before an area attack. Turn it on or off in Setup; it is on by default. Saved Areas now draw a marker in the game so you can see your farm area. The Battle and Item pages are easier to read, with larger icons and text. This also fixes a freeze at the storage keeper and the multi client install button. Just update the app; nothing to press or delete.",
   "mandatory": false,
   "revoked": [
     4,
@@ -11,5 +11,5 @@
     14,
     16
   ],
-  "revokedSignature": "XRoaNfsuVCRuAqGBixHNEfn1Bb5bMOener8scSj1kZQB6LiAo+CZu4Q3bHob4NqvIp/L17N6OhGlCqb9CfHqNWppN56lZDFHVimIwwg111lTFlzL+gLi+X1vv54FMXnS2sCeNgbSLg7ZNBIoNPqshrjgrRi0vGLL8BGxElxV2lAGTIhb3dO/y92pV9Vd7athY2lRI3ewFdvXpMOqGUmd4T3FQmrEsR10ZhX0wGaHpA4O0XpMCRjBsqA+iCtUFdV/IfJbwtUgWSizBYdwfPgkk84TYb0wpFwkkOByi2RJRsVZjolf/vvBo8alLluDoEBbDviqG2g1BcIci1pJ4m+IZw=="
+  "revokedSignature": "PAtq4fGbP4a0YZYRQNZW5PWaDUmYU8Gd8QUVm3aeVsrTOcAVVkic6sfJWsxml/Ov16ppcW7NGfb6TT66ljyP1/bAFgedzSawQfsXorYLLkaLS1xr2/xjiKDRw9giYN0S+p59C+1ApzYce39YQ659SVB4mc/KDawgrev1mdHRmlISrxPGqUgOG7TyOchyAJVbAcE02ZDDWaxOZ7RlsHX0sL/9hOw5M/iZSWBxXj1ek3iC7ZQE1EesjwY1OyLiEBYHgEr9QQnUGJ5D3Z9yMzEDDtsoDOnLwW0V8NoPHV+vDCJZtwwPeCRyteJSOhTXkcYRETWUOOYVHF83SNggAT/x7g=="
 }
