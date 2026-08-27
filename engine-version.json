@@ -1,9 +1,9 @@
 {
-  "version": "0.9.5",
-  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.9.5/engine-build-0.9.5.exe",
-  "sha256": "20b693199a6e669d4e31d23c47139303ae89af5869aceecad57af85c47efb599",
-  "signature": "TwTNryfhTo1WKTf/679ybLxYEXP/UMdj5ulSXnFfzq6xVPbwc1XRLXbPj0QOTZBAj7/JEN4uO1jYY5HxjQN5w4KPKYtFoUoZXIKhDe1nBscgkx+4dxVm3HcTYjIEpLKsQ21SKe64Dtjk+UVrbVFwj92y4djxPjFJkuZ8IZ6fwZU2cH6hBGKbRFOwieCrNJF8osXYU9JbCPyEx1xGVlxAs0gEnvi9eTlg+ZjjxnAiw00VZznaDnF6r7a65cPruobXfTb2oxDGOAZ3xvcKwEnSAH46ah/MhcJdxivM1Xufir2P+wf6Aeo8tlrCUS1VarBLjtw97jNWjwTbI/fU8Y09uQ==",
-  "notes": "Multi client now sets up its own sandbox for you when you turn it on, so there is no separate download to chase. Every update reinstalls the whole app cleanly, so you always land on the latest version with nothing left behind. Just update the app; nothing to press or delete.",
+  "version": "0.9.6",
+  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.9.6/engine-build-0.9.6.exe",
+  "sha256": "6fc7f7a8fa3ff85348dfba3c27a9f1f5a26dc5f9728efc277d126c6772863728",
+  "signature": "BJCu3Udx0UES3+jLnrmWInjFjVMDZ9CgOG031q2YgTAYSpbMH6SkQk4588+ncRPZzLV/fWuMVZoN3q/YDCNX1eI/8zk/2bctvNs4P50h1dZRrOVQvZ3/dcLqy4Ob22l8Mb49Zyg9TyzTeoHZ06BrwO2dWp5NA3X8URbYz3bo/PGUU7NO2dZG2/bowIXOIZhlrG8eGpbQRA9R+difC6IyIwgsK0rMzz/LTwkqVDP/y9e9oa1y5kiv9ro0baXjcLSdbVP3ieZ6pBR+TQEpcR0e+ikMo1OSM55pcUvsSnpZVfydCNLOybOc5r6RBklqhxLAHqEfLM+wAPoQ38Xjut+pVA==",
+  "notes": "The multi client screen now says exactly why a client cannot launch instead of hiding it. Every client keeps its own settings, the new client picker points any page at the client you want to manage, and each secondary now reports its full live state. Update as usual; the app reinstalls itself cleanly.",
   "mandatory": false,
   "revoked": [
     4,
@@ -11,5 +11,5 @@
     14,
     16
   ],
-  "revokedSignature": "FnCuvcC0qII5omdMndn2zO2clj4MIEO4zKX6VuQG35Fu4n03T3MCUh7jOFLnCRoufHiPUkIOcxc32a7T6kvVMMUIZoHdil5rUpeyMypc8kHURCFB6IZ/FxU/HUWPpylWvwYC3uCFnGTJ5jFXsLwPVwhBLdMv6lmbCti09cd6f9ZO5kpDOlQip86yN53UXZ45PoAX1QPh3agjMEiPWTBiiFGPzKz7x8Mvi9gSbwxsdjs6NqAIS/jwa1a59/n57o3PB9OJoPk15zEei/oIM8w3ttECpdLklBsVXRLeVJQCZbkrL08htssmtBi2H7rNizuuU+7N8Va0FIGlKsIHUeBZTQ=="
+  "revokedSignature": "VnDqcDsVYVJTldssvzFctZKW42l2VXqrJny819VAUy84rtLjJ6Cw4aqezs2jGmT+Tybf6zt5cSYRQ4u3IiYv29rfa8L7StkwPVCviwAdc+EQlV07YZ3s9HqwuNqmzwoJajv0E2f0D7EZXhXxr4jQ2MIEif4glXXIQcyygIRJM4Tf4IJs5tenybrPphS9Qo/JDlHxDRiLkgfjhtETgy4cDRYk5Fa7T3A1RJvVm+IHyeJgvX3dL6hIzYTavoNzGP1jcDvR78hOoS30a8IHxiQ5WarTsnBpcM1QqOdTjLh3A8SgQUDCERAc5UkAleAAGUC8O33yCHLesz3Kr93tPFh0Mg=="
 }
