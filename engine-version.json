@@ -1,9 +1,9 @@
 {
-  "version": "0.9.6",
-  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.9.6/engine-build-0.9.6.exe",
-  "sha256": "6fc7f7a8fa3ff85348dfba3c27a9f1f5a26dc5f9728efc277d126c6772863728",
-  "signature": "BJCu3Udx0UES3+jLnrmWInjFjVMDZ9CgOG031q2YgTAYSpbMH6SkQk4588+ncRPZzLV/fWuMVZoN3q/YDCNX1eI/8zk/2bctvNs4P50h1dZRrOVQvZ3/dcLqy4Ob22l8Mb49Zyg9TyzTeoHZ06BrwO2dWp5NA3X8URbYz3bo/PGUU7NO2dZG2/bowIXOIZhlrG8eGpbQRA9R+difC6IyIwgsK0rMzz/LTwkqVDP/y9e9oa1y5kiv9ro0baXjcLSdbVP3ieZ6pBR+TQEpcR0e+ikMo1OSM55pcUvsSnpZVfydCNLOybOc5r6RBklqhxLAHqEfLM+wAPoQ38Xjut+pVA==",
-  "notes": "The multi client screen now says exactly why a client cannot launch instead of hiding it. Every client keeps its own settings, the new client picker points any page at the client you want to manage, and each secondary now reports its full live state. Update as usual; the app reinstalls itself cleanly.",
+  "version": "0.10.0",
+  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.10.0/engine-build-0.10.0.exe",
+  "sha256": "b4bbbc39b7b9cb2099e9be73a10c2e0a9c03e290e6546090ec21c6984a54ac0d",
+  "signature": "Qr6I2KAVUCnJN51+0oFnHTqyb1VFonPriLIybW2xI7Sb3uuOsl9ULqxYc7xO8/31ptiTD+OJXIxdP4kZyVuNRMp7n7WH3/LrXvg5jokwHVbBjrxM8SGucZyv8Uh/Vfc4Z9QKIMYR9hYSqKTBNUOZmDfSXkZFvS3+heGTQFkxr5v0dKLMPjgzF6QBVYFbUy0KAxC0awPo5wtGHMmTMoGrqr0wmtdFIh/HICWiYNVihnE7pGDbcdIvukJvjbwDknsv1rz7YV62rsUI6j07TGt5lHwiK2YrcPBZC1jFOdQw/NvEXWhW6PAE776y1DKA5buI0Hi6+ZMp+/e8euIA+wiLaA==",
+  "notes": "Map Rotation. The bot can now cycle through 2 to 5 farming destinations, each with its own time budget, and repeat the cycle when it reaches the end. Retry, Skip and Restart give you manual control while it runs. The Battle page now splits into Skills and Farming tabs, so your skill setup and your farming setup no longer share one screen. A destination that cannot be reached is skipped rather than stalling the bot, and the panel now tells you which one and why until you dismiss it. Buttons across the rotation, saved area and licence cards now render properly instead of as plain text. The log is quieter. Update as usual; the app reinstalls itself cleanly.",
   "mandatory": false,
   "revoked": [
     4,
@@ -11,5 +11,5 @@
     14,
     16
   ],
-  "revokedSignature": "VnDqcDsVYVJTldssvzFctZKW42l2VXqrJny819VAUy84rtLjJ6Cw4aqezs2jGmT+Tybf6zt5cSYRQ4u3IiYv29rfa8L7StkwPVCviwAdc+EQlV07YZ3s9HqwuNqmzwoJajv0E2f0D7EZXhXxr4jQ2MIEif4glXXIQcyygIRJM4Tf4IJs5tenybrPphS9Qo/JDlHxDRiLkgfjhtETgy4cDRYk5Fa7T3A1RJvVm+IHyeJgvX3dL6hIzYTavoNzGP1jcDvR78hOoS30a8IHxiQ5WarTsnBpcM1QqOdTjLh3A8SgQUDCERAc5UkAleAAGUC8O33yCHLesz3Kr93tPFh0Mg=="
+  "revokedSignature": "Tpn+9MR5OLQuvN7IxZrNkluimuCywyKpjtTioo/AsmAmTzLcjKqWrGVb1u2BUaJBertyhSSVLlMzGRlxwpz01x2sG1U6ggw8WgixUsyekxvFNngajhXxX5SOio7FgbbAbpg3Jf+aqE5P7DXbVeFtGKWBRDleDC5Gb8h++ZHL9pXPpYblF6sQh2IYwSjcw5q14ANeMzdjRtx1UO3cbpGEi4ffM9OmfzWHuFKDphSQtA4271JGsp4O90P2iT5AqEx81xo9VS63jByH88OLqUnzikDSC5bMvL9o2zWIz/N07YUcZ1LHHvl9jxA8O4UoB0/Zm7Uqwdn846stx6aksopSkw=="
 }
