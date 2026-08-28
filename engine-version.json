@@ -1,9 +1,9 @@
 {
-  "version": "0.10.0",
-  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.10.0/engine-build-0.10.0.exe",
-  "sha256": "b4bbbc39b7b9cb2099e9be73a10c2e0a9c03e290e6546090ec21c6984a54ac0d",
-  "signature": "Qr6I2KAVUCnJN51+0oFnHTqyb1VFonPriLIybW2xI7Sb3uuOsl9ULqxYc7xO8/31ptiTD+OJXIxdP4kZyVuNRMp7n7WH3/LrXvg5jokwHVbBjrxM8SGucZyv8Uh/Vfc4Z9QKIMYR9hYSqKTBNUOZmDfSXkZFvS3+heGTQFkxr5v0dKLMPjgzF6QBVYFbUy0KAxC0awPo5wtGHMmTMoGrqr0wmtdFIh/HICWiYNVihnE7pGDbcdIvukJvjbwDknsv1rz7YV62rsUI6j07TGt5lHwiK2YrcPBZC1jFOdQw/NvEXWhW6PAE776y1DKA5buI0Hi6+ZMp+/e8euIA+wiLaA==",
-  "notes": "Map Rotation. The bot can now cycle through 2 to 5 farming destinations, each with its own time budget, and repeat the cycle when it reaches the end. Retry, Skip and Restart give you manual control while it runs. The Battle page now splits into Skills and Farming tabs, so your skill setup and your farming setup no longer share one screen. A destination that cannot be reached is skipped rather than stalling the bot, and the panel now tells you which one and why until you dismiss it. Buttons across the rotation, saved area and licence cards now render properly instead of as plain text. The log is quieter. Update as usual; the app reinstalls itself cleanly.",
+  "version": "0.10.1",
+  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.10.1/engine-build-0.10.1.exe",
+  "sha256": "38e7437d07a5f682aa1ca838b195719d551c564f6b539707ed56312cf0693940",
+  "signature": "KRDuPIH9+TrhL6ufwbTKzmwUSSNgWHSMOo5ZLQPBovSshfuujpM2tr8aK84lzvYEl6DUuHlK4oNB2heGeJe2WgxqZzG3hwhvm7umgXZbP4W3Tn2T7drcROzdQzTvm3a6u1wDMpzK4wMmrn96Ln/Pc9hta7GZ9/z1pYgw4AT9j8smvypSeoTrU3NtSliTwitvqmb4Azq/a03m0nxvRkunrWOxD1Kgr9Pe6t8zXqmrIQlvz+F7qJ70vu8WI049DVLnSrO45jrJ3yXcaD496YdpierMitD5PDm0V0qMIsCLDZdYy21mGJOEbrUkkPOZO0lcVaYAkPPF1aG9PcE+qIfoCg==",
+  "notes": "Map Rotation now survives a relogin. With a rotation set, the bot would stop travelling after it logged back in and just sit there. It travels again straight away, and if it ever does refuse to travel it now says why every 60 seconds instead of going quiet. A trip that has to warp before it walks no longer gives up part way; the walk to a map exit was being abandoned whenever the journey needed a warp first. A bond buff placed above a toggle in your buff list now casts, so Fury Bond is no longer skipped on every tick when it sits above a toggle. Berserkers can put Wild Charge in the damage rotation and it will be cast, where before it was skipped every tick. While the bot walks a Saved Area route it no longer competes with its own route for the controls. Update as usual, the app reinstalls itself cleanly.",
   "mandatory": false,
   "revoked": [
     4,
@@ -11,5 +11,5 @@
     14,
     16
   ],
-  "revokedSignature": "Tpn+9MR5OLQuvN7IxZrNkluimuCywyKpjtTioo/AsmAmTzLcjKqWrGVb1u2BUaJBertyhSSVLlMzGRlxwpz01x2sG1U6ggw8WgixUsyekxvFNngajhXxX5SOio7FgbbAbpg3Jf+aqE5P7DXbVeFtGKWBRDleDC5Gb8h++ZHL9pXPpYblF6sQh2IYwSjcw5q14ANeMzdjRtx1UO3cbpGEi4ffM9OmfzWHuFKDphSQtA4271JGsp4O90P2iT5AqEx81xo9VS63jByH88OLqUnzikDSC5bMvL9o2zWIz/N07YUcZ1LHHvl9jxA8O4UoB0/Zm7Uqwdn846stx6aksopSkw=="
+  "revokedSignature": "NDyIrn2NGSgTqDOXSytRHNh4nFbjesKZtnpk4APZM1IeFXAbTTYrhB/EGJwSWznaiUQLs9t4Fb8AzFKYJ0RBTXMZaq+yBm9pX7MBEDSyb5O3Phe6ehXKcR7rQY6GpUjYOMPUhsadXX0bJJsRhE0VtRurG/fH0pOyIsFFXMOKS8ig1QcnESadiPafdsV0etyzlAhCr9tSqYTA6eW8NnIbyk258SK3DaYFEYfwmCp4HzYbbfBi23xcV4i2Lp5K7tC71f5Dv12xqb9MEkU0A4/V1Zn0Ab2IA2ATbfvdu0z9GqoLp9j73TOlcYUhrDY01TvaRVfK8vZiE4LT191DS32t1w=="
 }
