@@ -1,9 +1,9 @@
 {
-  "version": "0.10.3",
-  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.10.3/engine-build-0.10.3.exe",
-  "sha256": "39261e95e65523698e9e5323fd865eba084686ae34e7b95a3948997d374cab77",
-  "signature": "Eg68+XPFv9TH1G7ApcV2Bc1lpo3u4L9+/83rQqwn1ZeeRKsygM4inTO5giMgU51AECasCpVKzA3oxIPjwgWfqYmQY5/Ng2xrrgh8jbXzgwNVMRkX3NIkP7STb5q+LX1sK1oNyMkvZVxeLmJojUM8lp780FgSWwW0YVfjf3U5Q5qSRomoDOxvdJt6xyOYbRE4N2IIXymTFkcfIabmqEWeoptVNgncbvIEn/nW6pTYP/y4oalJJikgrDLjwTeJz1iKisZFKc7Eh8nVyUggIrLU3duyovBj6Af4MCOvlC5SpCNMgafa1Bp+a/642R1De/w2Ml+sFMgwQeMSWmHslCw+Bw==",
-  "notes": "Opening a vending stall, the add stats window or your inventory was stopping the bot. While the window stayed open it would not attack, heal or do anything else, and it came back only when you closed the window. That is fixed. The bot keeps fighting and healing with any of those windows open, the way it did before 0.10.2.\n\nHealing is also back to casting the moment it is due. A heal that was on cooldown used to be attempted anyway and quietly retried; it now waits its cooldown out and fires cleanly.\n\nUpdate as usual, the app reinstalls itself cleanly.",
+  "version": "0.10.4",
+  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.10.4/engine-build-0.10.4.exe",
+  "sha256": "c6d8ea88d305cb000f902d9b10f9c0c9f8591068627b03c5be7da3f9d177cf4d",
+  "signature": "knmgIbcAQwGZobpaEHlVPLjbxM3knhi58rwljbpfjqhxo0FrrYtDzlRjLUFmXib29ZqdBjkLo+0miYFG9cBrVclBKDdU0ktGxK/qakWnZzdq7/l4VP8TR6vPZjfsDqoe+MY8kua9Yz36Dx9lTLV0FwuTs9rvtL8Ktsmg46XzVc5nadV0Zwj9VjFxGp6pfoD4ut04YPuLoqc0fY8tkhxwcLNYDiDjQuAZH4lPQ8CRjLuZ1wAmawWbXnxTkBGn+uijcmOar8Er+Km4S34RMt+uAFMlvqLaEOK4MPOkUjxmsyVw3C+SOAnHup53Yu22enJtS0liT4eByxIES8N+Dh2DxQ==",
+  "notes": "After a warp or a map change the bot used to sit still for about six seconds before doing anything. That wait is now 3.5 seconds, so it gets back to work roughly 2.5 seconds sooner.\n\nSeparately, a buff or summon cast that never finished could leave the bot quietly stuck at the worst possible moment, not healing and not attacking until something knocked it loose. A stuck cast now times out by itself within a few seconds and the bot carries on. If the bot ever stopped on you with a shop or window open and would not recover, this is the most likely cause and it is closed.\n\nUpdate as usual, the app reinstalls itself cleanly.",
   "mandatory": false,
   "revoked": [
     4,
@@ -11,5 +11,5 @@
     14,
     16
   ],
-  "revokedSignature": "j2DtHbM6EAu/21CoWLCgXyAcIfaeXHh0Y8SHN+4QCzgJBgtKBMLrG1mdfhua2qf+1qpX/1LvXBeaAt/O9XwVU2N58TduTQBIICwY/1CbMCvc7d5Hi+rqxrZ4V3Hv71Ygx1PsqaI8iho8endoxqySvu+uRioTDeFbeuzdg7tUwPel1JavMg3tEaG1gR3bfNYIUiWM3MCTpSXN0NUfQ2gZ+D4GANTQTDsBebeSjXKRhmvwpPCa3pvdT21COBOcKi7viea3Vonk2g1nU/7gdssMfWmINacl0b9fqXRbH1IO6IXpw9eCmanIqBROXvxffZlki4ud+KHtA9uVXPTswuvtTg=="
+  "revokedSignature": "BUqj7mjzyKu/3M5qYkwaEGB9QyNYqfx/c22N9t4rbHpPqhGGZR4ZUettYw/stLIFBSI/viC8Aa9m1XdfBtf1NAEzUQb47/phrJti8Q0cB6Xeau8zDZj++UNJt1fsk1kI8uUkhX+/LxuySzMr/BEpjRI+SpBLI0eCo3kv92/jq9mtQ33bKvy6kPBWM7NvkiNEFi99kHlOi4FhbS6aU7q7yFIRJ51c/5JaGFHbzyGSIEeIzB3UC7kBfiRBHubGN5mfzVuNBHlt++cqqRtSivthA5vQgCmFafjKuLqLHM4IAYGMOKHT2IFTeRnV4te7E/qMjc6cnUBNyDgTtj0F0nW54Q=="
 }
