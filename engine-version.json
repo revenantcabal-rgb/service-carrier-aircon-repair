@@ -1,9 +1,9 @@
 {
-  "version": "0.10.4",
-  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.10.4/engine-build-0.10.4.exe",
-  "sha256": "c6d8ea88d305cb000f902d9b10f9c0c9f8591068627b03c5be7da3f9d177cf4d",
-  "signature": "knmgIbcAQwGZobpaEHlVPLjbxM3knhi58rwljbpfjqhxo0FrrYtDzlRjLUFmXib29ZqdBjkLo+0miYFG9cBrVclBKDdU0ktGxK/qakWnZzdq7/l4VP8TR6vPZjfsDqoe+MY8kua9Yz36Dx9lTLV0FwuTs9rvtL8Ktsmg46XzVc5nadV0Zwj9VjFxGp6pfoD4ut04YPuLoqc0fY8tkhxwcLNYDiDjQuAZH4lPQ8CRjLuZ1wAmawWbXnxTkBGn+uijcmOar8Er+Km4S34RMt+uAFMlvqLaEOK4MPOkUjxmsyVw3C+SOAnHup53Yu22enJtS0liT4eByxIES8N+Dh2DxQ==",
-  "notes": "After a warp or a map change the bot used to sit still for about six seconds before doing anything. That wait is now 3.5 seconds, so it gets back to work roughly 2.5 seconds sooner.\n\nSeparately, a buff or summon cast that never finished could leave the bot quietly stuck at the worst possible moment, not healing and not attacking until something knocked it loose. A stuck cast now times out by itself within a few seconds and the bot carries on. If the bot ever stopped on you with a shop or window open and would not recover, this is the most likely cause and it is closed.\n\nUpdate as usual, the app reinstalls itself cleanly.",
+  "version": "0.10.5",
+  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.10.5/engine-build-0.10.5.exe",
+  "sha256": "228f9116b8c94a0c27ba7d068fbbbbf7a9c1bd237e8089e0f9fe062979f61c88",
+  "signature": "XpRUUC990mMdpwNDHOikI/C9JAO4tssZ1W6LoseY+yYG62biQdcqjid7vQd3j70qwFcG3E+chmMxd9ee4cSwqr26CoxhAmbU/+yp8WT/76A107MsdmC4cbXMEXhvWXHn7WDSnm3JYquQAaEWxeZGCM64llOEY1bcLw6V8mIDA0K0w9v3RThZAbWaFbjEMzc9dm6IITK8LP2NqPk0MR65G7D5ZmAViBeJU4PMyIlRHAYOgSF1VsRMRT5ylD4Bge/d3xDW2ZVl+3f2r9i9uZGzXQ8G9u85NzZuHjpcA/QY7lyTIFJAZKhaaceYldwrZsQQhhnlDb3Hkt26bQDSRgyqow==",
+  "notes": "If your Windows account name has characters outside plain English, installing the helper used to finish without ever actually working: everything looked fine, but the game quietly loaded nothing and the panel just sat there connecting. That is fixed. The install now finds a plain spelling of its folders that the game loader can always read, and if your machine cannot provide one at all, the install says so up front instead of leaving things half done.\n\nIf you were already affected, just update: a broken configuration from before is repaired automatically at the next start.\n\nUpdate as usual, the app reinstalls itself cleanly.",
   "mandatory": false,
   "revoked": [
     4,
@@ -11,5 +11,5 @@
     14,
     16
   ],
-  "revokedSignature": "BUqj7mjzyKu/3M5qYkwaEGB9QyNYqfx/c22N9t4rbHpPqhGGZR4ZUettYw/stLIFBSI/viC8Aa9m1XdfBtf1NAEzUQb47/phrJti8Q0cB6Xeau8zDZj++UNJt1fsk1kI8uUkhX+/LxuySzMr/BEpjRI+SpBLI0eCo3kv92/jq9mtQ33bKvy6kPBWM7NvkiNEFi99kHlOi4FhbS6aU7q7yFIRJ51c/5JaGFHbzyGSIEeIzB3UC7kBfiRBHubGN5mfzVuNBHlt++cqqRtSivthA5vQgCmFafjKuLqLHM4IAYGMOKHT2IFTeRnV4te7E/qMjc6cnUBNyDgTtj0F0nW54Q=="
+  "revokedSignature": "TLlk7ESZny3zOdEh8SczqJJKLdCLqhrYVlq7IEKCTEwPeRIUFTW/aAfKR0B2wBCFxlr4j6SM/QtlAxx10wyR0KWvVC+288tBNqfxoodTVc7LsW8BlbHuwiW/CBBTpE2DrlaX52zlhZoDMGr9PximdWk+nsJy2XG01K5uz0GblIhCXVGa+U5ypm2mL90OxX39A4Eu5lZWlcKhlM0T0FWHUOQPPsQPWETcw9jLyvv/leSj2VS7Ntx17fiBmxTmZtstfaT3/OSHSkMzijfvNoKmlmJ4Sh5QYG+lg9uiqS/LQvjt7RTkytZ8iOyeQ0L37D/kdjwpIaPuPczFvm8tlWsXTQ=="
 }
