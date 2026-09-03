@@ -1,9 +1,9 @@
 {
-  "version": "0.10.6",
-  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.10.6/engine-build-0.10.6.exe",
-  "sha256": "b58f6a6c46476c3d5ed698733986d7428e0bdb376ed277794de122e93c413d20",
-  "signature": "Aa5HFT1PGgYT1tB5xEbU09Ryl4EQ8/kvxZ2aF2fTELHjPCvsFKqq6llzbvPodurVsWQCdUCH2FFT6dIbbt6wr3UXzpXG/M1Dq9bI0x0yVwH3SpnU5lahUQxZwACyUH1lzQXiOjdvNX1ZjJTIUAyCd163mbBhfqTCAambPpVR2RlB1CxKXxKaP00qaQMVzzM8HR16J15tAHYGFq0+UHgzINPbLzyFBUgczjDKyn7rQOm1Zux0kZj79xi7naYyPmMjd0bcITyNri8VFGgtyQRcFTCU/ZsnP3fnKKdxhYqU+08fwJYa2pH3B0dKK0qYbp2lqncX5m7Eq19sWeMtEl7J8A==",
-  "notes": "Heal rules can now be marked Undead only. When you tick that on a Heal rule, the bot casts Heal at the Undead monster it is fighting whenever no defensive heal of yours is due, and the Combat page tells you in plain words why it is or is not firing: target not Undead, out of range, no line of sight, on cooldown, not on the hotbar, not enough resources, or the rule is off. Your defensive heals keep priority.\n\nAUTO now moves once from the Dark Fortress entrance toward the farming area, then hands control to combat when it finds a valid monster.\n\nAUTO now includes your Auto Attack when it chooses how close to walk, so a ranged character stops at a distance both its skill and its weapon can reach instead of closing further than it needs to.\n\nAn empty combat rotation is now kept as it is when your profile allows it or you have an Undead heal rule, instead of being replaced with the normal attack.\n\nImproved TrueSight reliability when casting immediately after another spell.\n\nFixed TrueSight incorrectly stopping movement while its effect remained active.\n\nImproved Corpse Barrier upkeep, including summon selection and avoiding unnecessary casts while its shield is active.\n\nEndow Holy no longer recasts every few seconds after a confirmed successful cast.\n\nCorrected unnecessary rotation delays for Chain Lightning, Tempest, Earthbolt and Firebolt when their actual casts finish sooner than expected.\n\nUpdate as usual, the app reinstalls itself cleanly.",
+  "version": "0.10.7",
+  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.10.7/engine-build-0.10.7.exe",
+  "sha256": "f1caf489bbe5d3faf666b031f06d9e730aef8770c12705c00b4ef456c56910bf",
+  "signature": "g5q3AF8u84OcEfzQL4FFtgtXXn5DgvYJEVysIBmK3MExwaLmvVkbww3zFo1h1n9JWKFYKDDedkBTDfzmhF1qtZiTFp2B/Sg+b8ZlOtXJFq0U9xcqqjcl9zYxXVijfMwuWLkSF4+AvrwqkZcPHeagvWIu0ZmOnAAZkm1mU8KSp7VswXsWfN/v6qUtWasVS0Yl44GRUPGqrKf3pryXMhbwSaZPdjIJQgxwJXrBe7lu6bYU/YulzlqzRqULOzKxFp4DM2b8RQRFcYUZcyyuY6e85WinHEMKQh0nUWErc3nR+Dn3TA5iHubW75IJxy+QQY4jUTM8fpSQtRoSIAfA2Lsccw==",
+  "notes": "Version 0.10.7. When you cast a targeted attack skill with auto attack on, the bot used to throw a stray melee swing in the middle of the cast. It now holds the swing until the cast lands and then carries on, so a ranged cast no longer turns into a stray melee. New optional Setup toggle for Necromancers, Cast DeathNova if a spell leaves you frozen: if a spell ever leaves you stuck moving very slowly for more than two seconds, the bot casts DeathNova once at your own feet to reset your speed. It is off by default and only runs on a Necromancer. Characters that can cast while moving now move the way the game intends during a cast. Support logs now hide your login details, so a log you send in for help never carries your password. Update from the app as usual, it reinstalls everything for you.",
   "mandatory": false,
   "revoked": [
     4,
@@ -11,5 +11,5 @@
     14,
     16
   ],
-  "revokedSignature": "bH2DUPqV6KyPaPmTjLFeVAp7jFYk8IQdUe0EEOWr9G8rSgT0+InoNKcjjFDjFe3AHVfqNebC90j9vTt7RXNLqotgnz1uFEagU2VO2R/0Mv+Fr1zzt8FygoQ2JzL02bubPxEpsJrSdrSaDYsNzckZNwHDED2onvVUe4a52z6iLeO6o8Y7IMMXQ+4kTamxKp6UaHvgapBce8UiTJF/kRLPPgzOY51HvHH+KDJ1tavRNvWjffvyvs/kf7XNZFTDQxC5DIN/rcmBLtWpBTqWPdlwez+RmjkGA+R3wUfwLBjtCO4ODrHMTlQXZJx6pY5qMDRT8yS6MeDR+9aSZ/Jn3cHHug=="
+  "revokedSignature": "EUvlBderB7g07yLb+pqkozjunboRLW3KI9WV4I/cn2u+Qv7mzeF0pLYh/pY3OKXL3rzmgrLe6uApsx4tdMZ0N7MxXObahvJaTKnls6vVCLRNuF1Z4/eQkGP9SXHqmTccwK5U/xnqRTdgQz5ukwCOk5+twuDYuP/apj/cpPMTyTd06gPeqEEpQJBOUZuntku9Icgf8UxQ5YbkyMM/vnBZwb9lik9tPj7L8zbHNVA03lYyD3BVVDdniMcxfjlXg0lUc4VYidq6B9rZS3aCnJPY1r7C8EsgOKoppRODrRxWVdZOmBhAzFvlxOyrmCN4mS2Mu527i4M4JEzmLhcCeOlNkg=="
 }
