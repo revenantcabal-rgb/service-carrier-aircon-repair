@@ -1,9 +1,9 @@
 {
-  "version": "0.10.8",
-  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.10.8/engine-build-0.10.8.exe",
-  "sha256": "cb7943c745c2c1ed3427720168a80124c3fd842f809c085cf90993df61263a25",
-  "signature": "Zlb04BuGt2TQ8tQiaDuMQ6z1N/yL62boxTJf/VPp5v+nWvWxbbIBslnqzj0/jAgipzNfOmnOp205PmRy4MpQBIVS7qAmq2+widNq7KS0p8q39Sgd+uc2+sxYygkWDsvPnkw6uzRABga80HxM1aBjAGVIlCM7vD8DVw9kXYNY+cFzjB1oge0EwJ26TT/pJLFbzjHY0YylPjkKYmKNcdv+47jsp184Zxgkn2yRAMbpvW1fH0DOBCgfPSUGzsdxOyxO/bdWKbN/LjMHte3c0ii06OyaDzJ/Z45Nj+1dmPBiUViUUy1V9cneX57HYXjF5bx8oDN9iu67dX8fuZKuxsVJZw==",
-  "notes": "Version 0.10.8. Fixed: on a Duo, Quad or Farm licence the client bar could come up empty after a cold start, with no way back except restarting the app. Your plan was never lost. The panel was asking for your capacity before your licence had finished loading, then never asking again. New: a multi client Overview tab showing every client on one screen, its vitals, its farming totals and whether it has gone stale or offline. Combat: Taunt no longer recasts while every nearby enemy is already taunted, Mark Target no longer fires on an enemy that is already marked, and Counter Stance waits until something is actually attacking you. Loot: the favourite confirm is no longer asked again while the game is still answering the last one, the pass countdown freezes when you stop the bot instead of running down behind a stopped client, and Attack Speed, Cast Speed, Movement Speed, HP Regen and MP Regen now match the rules you write for them.",
+  "version": "0.10.9",
+  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.10.9/engine-build-0.10.9.exe",
+  "sha256": "3157f13853c87fc3b958ff52ee4afdbda75b66719ff9897a7dc94a81ca570707",
+  "signature": "lyp2ukZeInP/2L0vSzODwivi0Luq1sa+LDml6DWFT8q3sk/fM1mrHw4KMhfP7ZFbeuqW066Nz49yHmGjT4ZNKo+xynmus+NAMPMi8VWuDOTVz3i0V/FmRFJ7JAwTY/JESMOpfypQGVBVa9TKW0bGgOCllGZ35X7EKjXgsOxTAnFPr1R5baVEDZLuYvzPZFDp59HJaRcKqjbVC0FJqvmjFvGHovFAb9trnXJjbdJnjYin487IAp4CtpAnmas0wOdnFM59427Q0ar9nDdPnS8q9t2Rg1l1+wyfENOEdiI0aEMCwl77oWwY3J5A+1PgAY7hb9GAB7j6yKRo46EmZhI/nQ==",
+  "notes": "Maintenance update. No gameplay changes. It updates the usual way, a full reinstall on next launch.",
   "mandatory": false,
   "revoked": [
     4,
@@ -17,5 +17,5 @@
     36,
     42
   ],
-  "revokedSignature": "e0axha21HjJSg/tezSIwEq6iHOdtywJpVpkPaTSLXPhSRXxGZVGOKDbnXkNOIByJSCwW3T5pXsZdTxGm9eI/vTF7MLSC8bh1Itj/rRqoUHyYrITFz1x9FKKFqJOJS6EJqQjyfe3soX7t8aOFyyQVEkzGOGwEUHQ2Qx+0sEtABqNTAjZkMtVtMBeDbjGLD7lEJ9vQs3ZqDO1hJftf8dktIBZF1VQZJ2IvOrQ4C2w3Fg3wl2W1ZLgZm/+XkTJUVIN70YPQBKa4QlvkSXDx2dvS114f0k79PI/7qbeKlq3d/QLofCY+YXpPL9s0CUhY3UR75654XZ8dVf02d3O2aB9BTg=="
+  "revokedSignature": "R7m2v/EgFXtRAJER6U/ccTAnoXWQdctaL43R6y6FcsoZs3yxK5pTQ9uFk/xipWaXgd57dcxBPfudDRVfAs2fjys4Cy0+iSExgTCGr8l9G/iFS5Hg/Kv2EeFK4whAz6SIPPJvpTDOdadCITfOCeAVRYVK4wz9nKNClKtrkilLYYQWe3ULyfZ96fzpfW441ze2jd+cLpJ7az0gFvx+i57ByfyGNmF43NhQmrRUzVcgcdCQ6g+Gdh76DkycpiloOtZ+c7Zl3V3PubcopZvK33LuTSRf3cfJxeuLIqJPSeBdcIFZPOLY1Ac2tGj/Wd2LtDJqcVwMkVZqkzeRI3lMKUyNlQ=="
 }
