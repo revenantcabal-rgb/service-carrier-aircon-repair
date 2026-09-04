@@ -1,15 +1,21 @@
 {
-  "version": "0.10.7",
-  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.10.7/engine-build-0.10.7.exe",
-  "sha256": "f1caf489bbe5d3faf666b031f06d9e730aef8770c12705c00b4ef456c56910bf",
-  "signature": "g5q3AF8u84OcEfzQL4FFtgtXXn5DgvYJEVysIBmK3MExwaLmvVkbww3zFo1h1n9JWKFYKDDedkBTDfzmhF1qtZiTFp2B/Sg+b8ZlOtXJFq0U9xcqqjcl9zYxXVijfMwuWLkSF4+AvrwqkZcPHeagvWIu0ZmOnAAZkm1mU8KSp7VswXsWfN/v6qUtWasVS0Yl44GRUPGqrKf3pryXMhbwSaZPdjIJQgxwJXrBe7lu6bYU/YulzlqzRqULOzKxFp4DM2b8RQRFcYUZcyyuY6e85WinHEMKQh0nUWErc3nR+Dn3TA5iHubW75IJxy+QQY4jUTM8fpSQtRoSIAfA2Lsccw==",
-  "notes": "Version 0.10.7. When you cast a targeted attack skill with auto attack on, the bot used to throw a stray melee swing in the middle of the cast. It now holds the swing until the cast lands and then carries on, so a ranged cast no longer turns into a stray melee. New optional Setup toggle for Necromancers, Cast DeathNova if a spell leaves you frozen: if a spell ever leaves you stuck moving very slowly for more than two seconds, the bot casts DeathNova once at your own feet to reset your speed. It is off by default and only runs on a Necromancer. Characters that can cast while moving now move the way the game intends during a cast. Support logs now hide your login details, so a log you send in for help never carries your password. Update from the app as usual, it reinstalls everything for you.",
+  "version": "0.10.8",
+  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.10.8/engine-build-0.10.8.exe",
+  "sha256": "cb7943c745c2c1ed3427720168a80124c3fd842f809c085cf90993df61263a25",
+  "signature": "Zlb04BuGt2TQ8tQiaDuMQ6z1N/yL62boxTJf/VPp5v+nWvWxbbIBslnqzj0/jAgipzNfOmnOp205PmRy4MpQBIVS7qAmq2+widNq7KS0p8q39Sgd+uc2+sxYygkWDsvPnkw6uzRABga80HxM1aBjAGVIlCM7vD8DVw9kXYNY+cFzjB1oge0EwJ26TT/pJLFbzjHY0YylPjkKYmKNcdv+47jsp184Zxgkn2yRAMbpvW1fH0DOBCgfPSUGzsdxOyxO/bdWKbN/LjMHte3c0ii06OyaDzJ/Z45Nj+1dmPBiUViUUy1V9cneX57HYXjF5bx8oDN9iu67dX8fuZKuxsVJZw==",
+  "notes": "Version 0.10.8. Fixed: on a Duo, Quad or Farm licence the client bar could come up empty after a cold start, with no way back except restarting the app. Your plan was never lost. The panel was asking for your capacity before your licence had finished loading, then never asking again. New: a multi client Overview tab showing every client on one screen, its vitals, its farming totals and whether it has gone stale or offline. Combat: Taunt no longer recasts while every nearby enemy is already taunted, Mark Target no longer fires on an enemy that is already marked, and Counter Stance waits until something is actually attacking you. Loot: the favourite confirm is no longer asked again while the game is still answering the last one, the pass countdown freezes when you stop the bot instead of running down behind a stopped client, and Attack Speed, Cast Speed, Movement Speed, HP Regen and MP Regen now match the rules you write for them.",
   "mandatory": false,
   "revoked": [
     4,
     11,
     14,
-    16
+    16,
+    17,
+    27,
+    32,
+    33,
+    36,
+    42
   ],
-  "revokedSignature": "EUvlBderB7g07yLb+pqkozjunboRLW3KI9WV4I/cn2u+Qv7mzeF0pLYh/pY3OKXL3rzmgrLe6uApsx4tdMZ0N7MxXObahvJaTKnls6vVCLRNuF1Z4/eQkGP9SXHqmTccwK5U/xnqRTdgQz5ukwCOk5+twuDYuP/apj/cpPMTyTd06gPeqEEpQJBOUZuntku9Icgf8UxQ5YbkyMM/vnBZwb9lik9tPj7L8zbHNVA03lYyD3BVVDdniMcxfjlXg0lUc4VYidq6B9rZS3aCnJPY1r7C8EsgOKoppRODrRxWVdZOmBhAzFvlxOyrmCN4mS2Mu527i4M4JEzmLhcCeOlNkg=="
+  "revokedSignature": "e0axha21HjJSg/tezSIwEq6iHOdtywJpVpkPaTSLXPhSRXxGZVGOKDbnXkNOIByJSCwW3T5pXsZdTxGm9eI/vTF7MLSC8bh1Itj/rRqoUHyYrITFz1x9FKKFqJOJS6EJqQjyfe3soX7t8aOFyyQVEkzGOGwEUHQ2Qx+0sEtABqNTAjZkMtVtMBeDbjGLD7lEJ9vQs3ZqDO1hJftf8dktIBZF1VQZJ2IvOrQ4C2w3Fg3wl2W1ZLgZm/+XkTJUVIN70YPQBKa4QlvkSXDx2dvS114f0k79PI/7qbeKlq3d/QLofCY+YXpPL9s0CUhY3UR75654XZ8dVf02d3O2aB9BTg=="
 }
