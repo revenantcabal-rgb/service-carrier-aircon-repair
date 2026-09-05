@@ -1,9 +1,9 @@
 {
-  "version": "0.10.9",
-  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.10.9/engine-build-0.10.9.exe",
-  "sha256": "3157f13853c87fc3b958ff52ee4afdbda75b66719ff9897a7dc94a81ca570707",
-  "signature": "lyp2ukZeInP/2L0vSzODwivi0Luq1sa+LDml6DWFT8q3sk/fM1mrHw4KMhfP7ZFbeuqW066Nz49yHmGjT4ZNKo+xynmus+NAMPMi8VWuDOTVz3i0V/FmRFJ7JAwTY/JESMOpfypQGVBVa9TKW0bGgOCllGZ35X7EKjXgsOxTAnFPr1R5baVEDZLuYvzPZFDp59HJaRcKqjbVC0FJqvmjFvGHovFAb9trnXJjbdJnjYin487IAp4CtpAnmas0wOdnFM59427Q0ar9nDdPnS8q9t2Rg1l1+wyfENOEdiI0aEMCwl77oWwY3J5A+1PgAY7hb9GAB7j6yKRo46EmZhI/nQ==",
-  "notes": "Maintenance update. No gameplay changes. It updates the usual way, a full reinstall on next launch.",
+  "version": "0.10.10",
+  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v0.10.10/engine-build-0.10.10.exe",
+  "sha256": "b0cd81a02fb40d67f5a2157b4dff289d4b01631d8f3fc4e3b3355b1c5d707cad",
+  "signature": "Cf/wYGc2CFJA5EM2CUkQMWOh+16+f/sT1ddbeVaCl0JqU9rZc+pbxGIqUKhmNZ1PnxIW4YLMp6ZpbFKWuC9dwlHJxCPMgLsEbrNJCoUifhv0XIQYaFGzYXglW7jSu6rBJh9EQXRoguh8esDf9/EGpx46JU2JqAic1/fOGLQMgq+/HJ7HJIvTtSrIAXojlK/t3QcevfbhcoXsOYTYcFphu8a3naWlzeXvEbzyQCmxw5m5vqV+2nNcL6Ftf7nSwgY8cC3F0kAQLilYgRPHVSbzFhU57FuETzzr/Dv31/CDgOTygFpNpoeQ30kxAH0PuEbRM6Di/Ehif7YhPYLhcwx6Zg==",
+  "notes": "Version 0.10.10. Every new setting is off until you turn it on. Boss Mode is a new tab on the Combat page: turn it on and the bot fights bosses only, within the detection radius you set; under it, automatic boss summoning uses one boss lure from your bag when no boss is nearby and shows a receipt for each attempt. Pack Kite gets a fixed batch limit on the Setup page: gather exactly that many monsters, clear them, repeat. Scheduled AFK in Town farms for the minutes you set, warps to town, waits, and comes back. On the Channel card, Return to town instead of hopping warps to town and back when no monsters are seen, and Hop if the same player stays nearby changes channel when one player shadows you. Explosive Grenade users get a checkbox in the grenade's rotation row to keep auto attacking during the buff. Update from the app as usual; it reinstalls everything for you, and your licence keeps working.",
   "mandatory": false,
   "revoked": [
     4,
@@ -17,5 +17,5 @@
     36,
     42
   ],
-  "revokedSignature": "R7m2v/EgFXtRAJER6U/ccTAnoXWQdctaL43R6y6FcsoZs3yxK5pTQ9uFk/xipWaXgd57dcxBPfudDRVfAs2fjys4Cy0+iSExgTCGr8l9G/iFS5Hg/Kv2EeFK4whAz6SIPPJvpTDOdadCITfOCeAVRYVK4wz9nKNClKtrkilLYYQWe3ULyfZ96fzpfW441ze2jd+cLpJ7az0gFvx+i57ByfyGNmF43NhQmrRUzVcgcdCQ6g+Gdh76DkycpiloOtZ+c7Zl3V3PubcopZvK33LuTSRf3cfJxeuLIqJPSeBdcIFZPOLY1Ac2tGj/Wd2LtDJqcVwMkVZqkzeRI3lMKUyNlQ=="
+  "revokedSignature": "Epax2P/usGX+FnLH/ILSRF0cjEeSlB4tVZ9tYB/HNR/7TwTg5LknlfpK3/15+hFGzNJQkt7Bdf5ropt8Q6jRv2FjLiLyRnRVz5zYzRzgnNRTpIA+FQLp478daSVWazx+hkqa+UTt2XoapZOX2K0ggpbwajaDidMdyb2yVwsL553azgEc/sqz+MgnbU1x1kTho4t8VekkRLuyWywY4K3BaA73eF6gppF6/3LPrxtMQMMIfqqYw0nedxjp6JkiwYCNwAO74Y825DFMpuOSE8dt13SyxUaGUCp2meSE/lmN6omedViT0ltZrKX13q3r9/k1W6K+PqLzXcKuDGSGMzSBlg=="
 }
