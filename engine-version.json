@@ -1,9 +1,9 @@
 {
-  "version": "11.0.1",
-  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v11.0.1/engine-build-11.0.1.exe",
-  "sha256": "774fa09b4ebf292791dd79ce9905d6ca2cc09b1141f072c1a3f23407fd9bde3d",
-  "signature": "GCB9yCGfCTW67HL3aMunYxFwC4xVMtnJmFB6iOXnNzBlRG/OZvFrlOtBV3M9v9N+lWPRdQgMxN7LsOnizoUn6ovw6BjtqWKndANA9JzDiMIrjROrWvwL/VpQNFePTVaFMnXTD78Yf/cP6c1dP9NrmD+8HXEN5yN+DyUYTf/8k+56o6+otY/msxEcRaMiLq6e/bGRnHDdWKDzinU9XtqFbIws9UYwVpWldRbGhipLQtgcMltZhqM1C0dzlv7OZDuMGv8nnIWma4qG25Xd1ZuYqJeyauIW9GNJuMbZ4dliRAzhOxtPF125b1BnWRMuUs9FvBhwjzqC6dI0RgHg0UhL+Q==",
-  "notes": "11.0.1 fixes one defect in 11.0.0. The four automatic restarts, inventory stays busy, stuck loading, the game stops earning and the game closes, brought the client back with AUTO switched off, so an unattended bot recovered and then farmed nothing. AUTO now resumes as it was meant to. The GM restart was never affected. Nothing else changed.",
+  "version": "11.1.3",
+  "url": "https://github.com/revenantcabal-rgb/service-carrier-aircon-repair/releases/download/engine-v11.1.3/engine-build-11.1.3.exe",
+  "sha256": "a5656798b5191ea532efac275ea8a1291b472eb7b4a44ec3805e650f2df36e4f",
+  "signature": "ERTN9zewG1FSqFGzVAQwsiIp/uxNB/I+3ulxidyybR5uNNHOL5hYoFo1QAIRq6dbyLhjIY920gz9VC5KD1ygXn0ucFqV8lYQDqeNc8VnUF+DJFHj2hVXUoUvDtMDz31SaF/J7NnXfDhrJ9rNyHDj3Ocq8SoQvCih/S5rspMy5ldrXR0Ii+aM16BnwP+A9YeOsAUexCexR4nWAMvxjFVJGEmQgd/GrAXcbyBErmfSs1V1iTRg8rF52VCZatfM8upWL62DRMNP28BUn2WDlY3L+9eE2dr0zrwYJ8LcpPMroyX7vQIcCHpN9pcwYpplVyP52zVq2/Q/rHeQ8J/G8DvHFg==",
+  "notes": "If you use Auto switch characters, this one matters most. When the bot switched away from a character it could overwrite that character's saved skills with just the normal attack, and save it, so coming back to them later their rotation was gone. The same thing could happen at login. Your saved rotations are safe now. Map Rotation keeps your combat, buff and healing selections when it switches maps and when you reconnect, instead of replacing them with the arriving map's own. Boss summoning waits for the game to confirm the summoned boss is actually dead before it uses another lure, so a boss walking out of view no longer counts as a kill. The Boss Mode panel now shows the receipts behind an attempt: which lure was used, whether the inventory confirmed it was consumed, and whether the kill was confirmed. The Map Rotation panel explains itself in plain words. Where it used to print something like \"Travel problem at Sunken Depths: map-exit:path-unknown\", it now tells you what actually happened. There is a new option under Preferences that restarts the game after two deaths on the same map inside a window you choose. It is off until you switch it on. A busy inventory or storage popup that comes back after a failed dismiss now asks for a restart instead of retrying forever. The translations are updated in all six languages, including the Boss Mode and Map Rotation panels which used to fall back to English, and three Filipino phrases that had been wrong for a while. Shinobi approaches to the range the game actually gives Venom Strike rather than its weapon range. One sentence in the Combat settings referred to another product by name. It has been rewritten. The setting behaves exactly as before.",
   "mandatory": false,
   "revoked": [
     4,
@@ -17,5 +17,5 @@
     36,
     42
   ],
-  "revokedSignature": "iQ3sdTcIvK6uiz+4UjSVD68ejjmz8DTTv9jB1/7fbfQd/9U4/skC6Fnl7CWGTLPmKFsyoKnaejDmPu12vFbfSkypymE7C4zCJC2pKCh7s7CVtkTQxGiyoUN8C+Rakn0Sq7tPFKaPst3L6Qylnk29ohYlzsO6otli1allo4vJtiSTxC7UqoCxEoyR4oyvkftzDP0xCT6LMcSFW3hVITNRlVyIsR7MmCxS3RgTigPMDaELHuR0bDCMDlaWZOQXvO9iXIQA9ux5UGgCU6453lgsD7ccrNC/MLlKGEYFc0Md9cHInkergHIxgfUitwZVZL6i7nkXGksfRSzohXFuZ4nzNQ=="
+  "revokedSignature": "APYz1dUYQx8167j8en8uHKnpye6GDfwqUnElhboA8YxdC5z1PPSttXZb932iqzF8O9jHz3+Wo+rBCtMtKxtdJ/Hn6SMl0YdqNJp4mngGZ5/fQdLAoYV4yGuiF3/Zm9+XojKSnt4mGuHk337MvIKcdomtNgvIFwJfBHMs/N32Zvq9d47tHxVspBcMcf1kPu2mzxKOtnPm+6kFqlSjtY8/qD+/gO8BuSjFjTmjcM0Jcl/FQRufwTyWBFgoqT9qvF/ZEWdoqNY0aKFjMEeNAPRpvKL8FscrNN1V9tXp0+kQhThN7CUFv9Y8QDfafdmhLDklP5af4uzTCyjfQF8R8297XQ=="
 }
